@@ -7020,7 +7020,7 @@ spells:BA_FIRE | BA_NETH | BA_MANA | BRAIN_SMASH | CAUSE_4 | BO_MANA
 spells:SCARE | BLIND | TPORT | S_KIN | S_HI_DEMON | S_MONSTERS | S_HI_UNDEAD
 
 name:543:Huan, Wolfhound of the Valar
-counts:81:0:0:8:64:7:0
+counts:82:0:0:8:64:7:0
 blow:CLAW:COLD:0+9d12M0:4:0
 blow:CLAW:COLD:0+9d12M0:4:1
 blow:BITE:COLD:0+9d12M0:5:2
@@ -7388,7 +7388,7 @@ flags:NONLIVING | NO_CONF | NO_SLEEP
 spells:ARROW_4 | BR_POIS | BLIND | CONF
 
 name:569:Osyluth
-counts:50:0:4:3:131:0:6
+counts:51:0:4:3:131:0:6
 blow:HIT:LOSE_WIS:0+6d6M0:7:0
 blow:HIT:LOSE_CON:0+6d6M0:3:1
 blow:BITE:POISON:0+8d8M0:7:2
