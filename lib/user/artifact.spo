@@ -1,0 +1,2188 @@
+Artifact Spoilers for Angband 4.0.2
+===================================
+
+Randart seed is 228167896
+
+
+Edged Weapons
+=============
+
+the Main Gauche of Maedhros (2d5) (+12,+15) <+3>
+------------------------------------------------
++3 intelligence.
++3 dexterity.
+Slays trolls, giants.
+Cannot be harmed by acid.
+Prevents paralysis.  Grants the ability to see invisible things.  
+
+
+Min Level 15, Max Level 65, Generation chance 3, Power 152, 3.0 lbs
+
+
+the Dagger 'Angrist' (2d4) (+10,+15) [+5] <+4>
+----------------------------------------------
+A short two-edged blade perfect for thrusting.
+
++4 dexterity.
+Slays evil creatures, trolls, orcs.
+Branded with acid.
+Provides resistance to acid, dark.
+Cannot be harmed by acid.
+Sustains dexterity.
+Prevents paralysis.  
+
+
+Min Level 20, Max Level 100, Generation chance 2, Power 176, 1.2 lbs
+
+
+the Dagger 'Narthanc' (2d4) (+9,+12) [+10]
+------------------------------------------
+A short two-edged blade perfect for thrusting.
+
+Branded with fire.
+Provides resistance to fire.
+Cannot be harmed by acid.
+
+When activated, it creates a fire bolt with damage 9d8.
+Takes 9 to 16 turns to recharge.
+Your chance of success is 99.0%
+
+
+Min Level 1, Max Level 50, Generation chance 40, Power 97, 1.2 lbs
+
+
+the Dagger 'Nimthanc' (2d4) (+9,+12) [+10]
+------------------------------------------
+A short two-edged blade perfect for thrusting.
+
+Branded with cold.
+Provides resistance to frost.
+Cannot be harmed by acid.
+
+When activated, it creates a frost bolt with damage 6d8.
+Takes 8 to 15 turns to recharge.
+Your chance of success is 99.0%
+
+
+Min Level 1, Max Level 50, Generation chance 40, Power 97, 1.2 lbs
+
+
+the Dagger 'Dethanc' (2d4) (+9,+12) [+10]
+-----------------------------------------
+A short two-edged blade perfect for thrusting.
+
+Branded with lightning.
+Provides resistance to lightning.
+Cannot be harmed by acid.
+
+When activated, it creates a lightning bolt (that always beams) with damage
+6d6.
+Takes 7 to 12 turns to recharge.
+Your chance of success is 99.0%
+
+
+Min Level 1, Max Level 50, Generation chance 40, Power 97, 1.2 lbs
+
+
+the Dagger of Rilia (2d4) (+14,+13)
+-----------------------------------
+A short two-edged blade perfect for thrusting.
+
+Slays orcs, trolls.
+Branded with poison.
+Provides resistance to poison gas, disenchantment.
+Cannot be harmed by acid.
+
+When activated, it fires a stinking cloud with damage 12.
+Takes 5 to 8 turns to recharge.
+Your chance of success is 99.0%
+
+
+Min Level 5, Max Level 75, Generation chance 5, Power 147, 1.2 lbs
+
+
+the Dagger 'Belangil' (3d4) (+16,+14) <+2>
+------------------------------------------
+A short two-edged blade perfect for thrusting.
+
++2 dexterity.
+Branded with cold.
+Provides resistance to frost.
+Cannot be harmed by acid.
+Slows your metabolism.  Speeds regeneration.  Grants the ability to see
+invisible things.  
+
+When activated, it creates a frost ball with damage 50.
+Takes 6 to 10 turns to recharge.
+Your chance of success is 99.0%
+
+
+Min Level 10, Max Level 80, Generation chance 2, Power 158, 1.2 lbs
+
+
+the Bastard Sword 'Calris' (5d4) (-20,+20) <+5>
+-----------------------------------------------
+Heavily cursed.
++5 constitution.
+Slays dragons (powerfully), evil creatures, demons, trolls.
+Provides resistance to disenchantment.
+Cannot be harmed by acid.
+Aggravates creatures nearby.  
+
+
+Min Level 30, Max Level 127, Generation chance 7, Power 174, 14.0 lbs
+
+
+the Broad Sword 'Aranrúth' (3d5) (+20,+12) <+4>
+------------------------------------------------
++4 dexterity.
+Slays demons, orcs.
+Provides resistance to frost.
+Cannot be harmed by acid.
+Slows your metabolism.  Feather Falling.  Prevents paralysis.  
+
+When activated, it creates a frost bolt with damage 12d8.
+Takes 50 turns to recharge.
+Your chance of success is 98.8%
+
+
+Min Level 20, Max Level 100, Generation chance 2, Power 181, 15.0 lbs
+
+
+the Broad Sword 'Glamdring' (2d5) (+10,+15) <+1>
+------------------------------------------------
++1 searching skill.
+Slays orcs, demons, evil creatures.
+Branded with fire.
+Provides resistance to fire, light.
+Cannot be harmed by acid.
+Blessed by the gods.  Slows your metabolism.  
+Radius 1 light.
+
+
+Min Level 20, Max Level 80, Generation chance 5, Power 131, 15.0 lbs
+
+
+the Broad Sword 'Aeglin' (2d5) (+12,+16) <+1>
+---------------------------------------------
++1 searching skill.
+Slays orcs, trolls, giants.
+Branded with lightning.
+Provides resistance to lightning.
+Provides protection from blindness.
+Cannot be harmed by acid.
+Blessed by the gods.  Slows your metabolism.  
+Radius 1 light.
+
+
+Min Level 20, Max Level 100, Generation chance 3, Power 133, 15.0 lbs
+
+
+the Broad Sword 'Orcrist' (2d5) (+10,+15) <+3, +1>
+--------------------------------------------------
++3 searching skill.
+Slays evil creatures, orcs, dragons.
+Branded with cold.
+Provides resistance to frost, dark.
+Cannot be harmed by acid.
+Blessed by the gods.  Slows your metabolism.  
+Radius 1 light.
+
+
+Min Level 20, Max Level 80, Generation chance 5, Power 144, 15.0 lbs
+
+
+the Zweihander 'Gurthang' (3d6) (+13,+17) <+2>
+----------------------------------------------
+A sword designed for two hands.
+
++2 strength.
+Slays dragons (powerfully).
+Branded with fire, poison.
+Provides resistance to fire, poison gas.
+Cannot be harmed by acid.
+Slows your metabolism.  Speeds regeneration.  Prevents paralysis.  
+
+
+Min Level 30, Max Level 100, Generation chance 3, Power 211, 20.0 lbs
+
+
+the Zweihander 'Zarcuthra' (4d6) (+19,+21) <+4, +2>
+---------------------------------------------------
+A sword designed for two hands.
+
++4 strength.
++2 infravision.
+Slays dragons (powerfully), animals, evil creatures, undead, demons, trolls,
+giants, orcs.
+Branded with fire.
+Provides resistance to fire, chaos.
+Cannot be harmed by acid.
+Prevents paralysis.  Grants the ability to see invisible things.  Aggravates
+creatures nearby.  
+
+
+Min Level 30, Max Level 127, Generation chance 1, Power 335, 24.0 lbs
+
+
+the Zweihander 'Mormegil' (3d6) (-15,-15) [-10] <-10>
+-----------------------------------------------------
+A sword designed for two hands.
+
+Heavily cursed.
+-10 speed.
+Slays dragons (powerfully), undead.
+Branded with poison.
+Cannot be harmed by acid.
+Sustains your life force.  Grants the ability to see invisible things. 
+Aggravates creatures nearby.  Drains experience.  
+
+
+Min Level 30, Max Level 100, Generation chance 7, Power -230, 25.0 lbs
+
+
+the Cutlass 'Gondricam' (1d8) (+10,+11) [+50] <+4, +2>
+------------------------------------------------------
+A thicker and slightly longer dagger, the cutlass is a slashing sword.  It
+possesses a slight curve and only one side is sharp.
+
++4 dexterity.
++2 stealth.
+Provides resistance to acid, lightning, fire, frost.
+Cannot be harmed by acid.
+Feather Falling.  Speeds regeneration.  Prevents paralysis.  Grants the ability
+to see invisible things.  
+
+
+Min Level 20, Max Level 65, Generation chance 12, Power 354, 11.0 lbs
+
+
+the Executioner's Sword 'Crisdurian' (4d5) (+18,+19)
+----------------------------------------------------
+Slays dragons, evil creatures, undead, trolls, giants, orcs.
+Cannot be harmed by acid.
+Grants the ability to see invisible things.  
+
+
+Min Level 40, Max Level 127, Generation chance 4, Power 221, 26.0 lbs
+
+
+the Katana 'Aglarang' (6d5) (+10,+10) <+5, +1>
+----------------------------------------------
++5 dexterity.
++5 speed.
++1 attack speed.
+Cannot be harmed by acid.
+Sustains dexterity.
+
+
+Min Level 30, Max Level 100, Generation chance 4, Power 311, 5.0 lbs
+
+
+the Long Sword 'Ringil' (4d5) (+22,+25) <+10, +1>
+-------------------------------------------------
++10 speed.
+Slays evil creatures, undead, trolls, demons (powerfully).
+Branded with cold.
+Provides resistance to frost, light.
+Provides protection from fear.
+Cannot be harmed by acid.
+Blessed by the gods.  Slows your metabolism.  Speeds regeneration.  Prevents
+paralysis.  Grants the ability to see invisible things.  
+Radius 1 light.
+
+When activated, it creates a frost ball with damage 100.
+Takes 40 turns to recharge.
+Your chance of success is 98.8%
+
+
+Min Level 20, Max Level 127, Generation chance 1, Power 477, 13.0 lbs
+
+
+the Long Sword 'Andúril' (3d5) (+10,+15) [+10] <+4>
+----------------------------------------------------
++4 strength.
++4 dexterity.
+Slays evil creatures, trolls, orcs, undead.
+Branded with fire.
+Provides resistance to fire, disenchantment.
+Provides protection from fear.
+Cannot be harmed by acid.
+Sustains strength, dexterity.
+Blessed by the gods.  Prevents paralysis.  Grants the ability to see invisible
+things.  
+
+When activated, it creates a fire ball with damage 72.
+Takes 40 turns to recharge.
+Your chance of success is 98.8%
+
+
+Min Level 20, Max Level 127, Generation chance 3, Power 306, 13.0 lbs
+
+
+the Long Sword 'Anguirel' (2d5) (+10,+12) <+2, +3, +1>
+------------------------------------------------------
++2 strength.
++2 constitution.
++3 speed.
++1 attack speed.
+Slays evil creatures, demons.
+Branded with poison.
+Provides resistance to lightning, light, dark.
+Cannot be harmed by acid.
+Prevents paralysis.  Grants the ability to see invisible things.  Aggravates
+creatures nearby.  
+Radius 1 light.
+
+
+Min Level 20, Max Level 127, Generation chance 3, Power 306, 13.0 lbs
+
+
+the Long Sword 'Elvagil' (2d5) (+12,+12) <+2>
+---------------------------------------------
++2 dexterity.
++2 stealth.
+Slays trolls, orcs.
+Cannot be harmed by acid.
+Feather Falling.  Grants the ability to see invisible things.  
+
+
+Min Level 10, Max Level 50, Generation chance 50, Power 131, 13.0 lbs
+
+
+the Rapier 'Forasgil' (1d6) (+12,+19) <+1>
+------------------------------------------
+Slays animals.
+Branded with cold.
+Provides resistance to frost, light.
+Cannot be harmed by acid.
+Radius 1 light.
+
+
+Min Level 5, Max Level 50, Generation chance 38, Power 105, 4.0 lbs
+
+
+the Rapier 'Careth Asdriag' (2d6) (+16,+12) <+2, +1>
+----------------------------------------------------
++2 strength.
++2 dexterity.
++2 constitution.
++1 attack speed.
+Slays dragons, animals, trolls, giants, orcs.
+Cannot be harmed by acid.
+
+
+Min Level 15, Max Level 80, Generation chance 10, Power 235, 4.0 lbs
+
+
+the Short Sword 'Sting' (1d7) (+7,+8) <+1, +3, +2>
+--------------------------------------------------
++1 strength.
++1 dexterity.
++1 constitution.
++3 speed.
++2 attack speed.
+Slays evil creatures, undead, orcs, animals.
+Provides resistance to light.
+Provides protection from fear.
+Cannot be harmed by acid.
+Prevents paralysis.  Grants the ability to see invisible things.  
+Radius 1 light.
+
+
+Min Level 20, Max Level 100, Generation chance 6, Power 319, 7.5 lbs
+
+
+the Scimitar 'Haradekket' (4d2) (+9,+11) <+2>
+---------------------------------------------
+A long sabre with an extreme curve to the blade.
+
++2 dexterity.
++2 attack speed.
+Slays animals, evil creatures, undead.
+Cannot be harmed by acid.
+Grants the ability to see invisible things.  
+
+
+Min Level 20, Max Level 80, Generation chance 7, Power 227, 13.0 lbs
+
+
+the Short Sword 'Dagmor' (1d7) (+13,+11) <+2>
+---------------------------------------------
++2 attack speed.
+Slays animals.
+Branded with poison.
+Cannot be harmed by acid.
+Slows your metabolism.  Speeds regeneration.  
+
+
+Min Level 20, Max Level 80, Generation chance 12, Power 184, 8.0 lbs
+
+
+the Blade of Chaos 'Doomcaller' (6d5) (+18,+28) [-50]
+-----------------------------------------------------
+Slays animals, dragons (powerfully), evil creatures, trolls, demons.
+Branded with cold.
+Provides resistance to acid, lightning, fire, frost, chaos.
+Cannot be harmed by acid.
+Prevents paralysis.  Grants telepathy.  Grants the ability to see invisible
+things.  Aggravates creatures nearby.  
+
+
+Min Level 70, Max Level 127, Generation chance 4, Power 330, 18.0 lbs
+
+
+the Main Gauche of Azaghâl (2d5) (+12,+14)
+-------------------------------------------
+Slays dragons (powerfully).
+Provides immunity to fire.
+Provides resistance to acid.
+Provides protection from fear.
+Cannot be harmed by acid.
+
+
+Min Level 18, Max Level 100, Generation chance 3, Power 152, 3.0 lbs
+
+
+the Bastard Sword of Éowyn (4d4) (+12,+16) <+4, +2>
+----------------------------------------------------
++4 strength.
++2 stealth.
+Slays evil creatures, undead (powerfully), giants, animals.
+Provides resistance to frost, dark, nether.
+Provides protection from fear.
+Cannot be harmed by acid.
+
+
+Min Level 30, Max Level 127, Generation chance 3, Power 264, 14.0 lbs
+
+
+
+
+Polearms
+========
+
+the Spear of Melkor (4d6) (-12,+20) <-4>
+----------------------------------------
+Heavily cursed.
+-4 wisdom.
+-4 stealth.
+Branded with poison.
+Provides resistance to light, dark, nether.
+Provides protection from blindness.
+Cannot be harmed by acid, fire.
+Aggravates creatures nearby.  Drains experience.  
+
+
+Min Level 65, Max Level 127, Generation chance 2, Power 96, 20.0 lbs
+
+
+the Beaked Axe of Théoden (2d6) (+8,+10) <+3>
+----------------------------------------------
++3 wisdom.
++3 constitution.
+Slays dragons.
+Cannot be harmed by acid, fire.
+Slows your metabolism.  Grants telepathy.  
+
+When activated, it drains up to 120 hit points of life from a target creature. 
+Does not affect undead, demons, golems, elementals or vortices.
+Takes 40 turns to recharge.
+Your chance of success is 98.8%
+
+
+Min Level 20, Max Level 100, Generation chance 7, Power 183, 18.0 lbs
+
+
+the Glaive of Pain (9d6) (+0,+30)
+---------------------------------
+Cannot be harmed by acid, fire.
+
+
+Min Level 30, Max Level 127, Generation chance 4, Power 161, 30.0 lbs
+
+
+the Halberd 'Osondir' (3d5) (+16,+12) <+3>
+------------------------------------------
++3 strength.
++3 wisdom.
+Slays undead, giants.
+Branded with fire.
+Provides resistance to fire, sound.
+Cannot be harmed by acid, fire.
+Blessed by the gods.  Feather Falling.  Grants the ability to see invisible
+things.  
+
+
+Min Level 25, Max Level 80, Generation chance 12, Power 188, 14.0 lbs
+
+
+the Pike 'Til-i-arc' (3d5) (+10,+12) [+10] <+3, +2>
+---------------------------------------------------
++3 strength.
++3 intelligence.
++2 speed.
+Slays demons, trolls, giants.
+Branded with cold, fire.
+Provides resistance to fire, frost.
+Cannot be harmed by acid, fire.
+Sustains intelligence.
+Slows your metabolism.  
+
+
+Min Level 20, Max Level 80, Generation chance 7, Power 235, 16.0 lbs
+
+
+the Spear 'Aiglos' (3d6) (+15,+25) [+5] <+2, +4>
+------------------------------------------------
++2 wisdom.
++4 dexterity.
+Slays evil creatures, trolls, orcs, undead (powerfully).
+Branded with cold.
+Provides resistance to frost.
+Provides protection from fear.
+Cannot be harmed by acid, fire.
+Blessed by the gods.  Slows your metabolism.  Prevents paralysis.  
+
+When activated, it creates a frost ball with damage 100.
+Takes 35 turns to recharge.
+Your chance of success is 99.0%
+
+
+Min Level 15, Max Level 100, Generation chance 2, Power 269, 5.0 lbs
+
+
+the Spear of Oromë (4d6) (+15,+15) <+4, +1>
+--------------------------------------------
++4 intelligence.
++4 infravision.
++4 speed.
+Slays giants, animals.
+Branded with fire.
+Provides resistance to fire, light.
+Cannot be harmed by acid, fire.
+Blessed by the gods.  Feather Falling.  Grants the ability to see invisible
+things.  
+Radius 1 light.
+
+When activated, it turns rock into mud.
+Takes 5 turns to recharge.
+Your chance of success is 99.0%
+
+
+Min Level 15, Max Level 127, Generation chance 2, Power 305, 5.0 lbs
+
+
+the Spear 'Nimloth' (1d6) (+11,+13) <+3>
+----------------------------------------
++3 stealth.
++3 speed.
+Slays undead.
+Branded with cold.
+Provides resistance to frost.
+Cannot be harmed by acid, fire.
+Blessed by the gods.  Grants the ability to see invisible things.  
+
+
+Min Level 15, Max Level 65, Generation chance 8, Power 171, 5.0 lbs
+
+
+the Lance of the Eorlingas (3d8) (+13,+21) <+2>
+-----------------------------------------------
++2 strength.
++2 dexterity.
++2 speed.
+Slays evil creatures, trolls, orcs.
+Provides protection from fear.
+Cannot be harmed by acid, fire.
+Grants the ability to see invisible things.  
+
+
+Min Level 20, Max Level 100, Generation chance 4, Power 273, 36.0 lbs
+
+
+the Great Axe of Durin (4d4) (+10,+20) [+15] <+3, -1, +5>
+---------------------------------------------------------
++3 strength.
++3 constitution.
+-1 stealth.
++5 tunneling.
+Slays dragons (powerfully), demons, trolls, orcs.
+Branded with acid, fire.
+Provides resistance to acid, fire, light, dark, chaos.
+Provides protection from fear.
+Cannot be harmed by acid, fire.
+Prevents paralysis.  
+
+
+Min Level 40, Max Level 127, Generation chance 1, Power 344, 23.0 lbs
+
+
+the Great Axe of Eönwë (5d4) (+15,+18) [+8] <+2>
+--------------------------------------------------
++2 strength.
++2 intelligence.
++2 wisdom.
++2 dexterity.
++2 constitution.
+Slays evil creatures, undead, demons (powerfully), orcs.
+Branded with cold.
+Provides immunity to frost.
+Provides protection from fear.
+Cannot be harmed by acid, fire.
+Blessed by the gods.  Prevents paralysis.  Grants the ability to see invisible
+things.  
+
+When activated, it removes all non-unique monsters within 20 squares, dealing
+you damage in the process.
+Takes 1000 turns to recharge.
+Your chance of success is 98.2%
+
+
+Min Level 40, Max Level 127, Generation chance 1, Power 375, 23.0 lbs
+
+
+the Battle Axe of Balli Stonehand (3d8) (+8,+11) [+5] <+3, +1>
+--------------------------------------------------------------
++3 strength.
++3 constitution.
++1 stealth.
+Slays demons, trolls, orcs.
+Provides resistance to acid, lightning, fire, frost.
+Provides protection from blindness.
+Cannot be harmed by acid, fire.
+Feather Falling.  Speeds regeneration.  Prevents paralysis.  Grants the ability
+to see invisible things.  
+
+
+Min Level 30, Max Level 100, Generation chance 7, Power 309, 17.0 lbs
+
+
+the Battle Axe 'Lotharang' (2d8) (+14,+13) <+3, +1>
+---------------------------------------------------
++3 strength.
++3 dexterity.
++1 attack speed.
+Slays trolls, orcs.
+Provides resistance to disenchantment.
+Cannot be harmed by acid, fire.
+
+When activated, it heals 40 hitpoints, cut damage, and cures blindness and
+confusion.
+Takes 4 to 6 turns to recharge.
+Your chance of success is 98.2%
+
+
+Min Level 30, Max Level 100, Generation chance 7, Power 244, 17.0 lbs
+
+
+the Lochaber Axe 'Mundwine' (3d8) (+12,+17)
+-------------------------------------------
+Slays evil creatures, animals, demons.
+Provides resistance to acid, lightning, fire, frost.
+Cannot be harmed by acid, fire.
+
+
+Min Level 30, Max Level 100, Generation chance 12, Power 228, 24.0 lbs
+
+
+the Broad Axe 'Barukkheled' (2d6) (+13,+19) <+3>
+------------------------------------------------
++3 constitution.
+Slays evil creatures, trolls, giants, orcs.
+Cannot be harmed by acid, fire.
+Grants the ability to see invisible things.  
+
+
+Min Level 20, Max Level 75, Generation chance 12, Power 176, 16.0 lbs
+
+
+the Trident of Wrath (3d10) (+16,+18) <+2>
+------------------------------------------
++2 strength.
++2 dexterity.
+Slays evil creatures, undead (powerfully).
+Branded with poison.
+Provides resistance to light, dark.
+Cannot be harmed by acid, fire.
+Blessed by the gods.  Grants the ability to see invisible things.  
+
+
+Min Level 15, Max Level 100, Generation chance 3, Power 283, 7.0 lbs
+
+
+the Trident of Ulmo (4d10) (+15,+19) <+4>
+-----------------------------------------
++4 dexterity.
+Slays dragons, animals.
+Provides immunity to acid.
+Provides resistance to nether.
+Cannot be harmed by acid, fire.
+Blessed by the gods.  Slows your metabolism.  Speeds regeneration.  Prevents
+paralysis.  Sustains your life force.  Grants the ability to see invisible
+things.  
+
+When activated, it teleports a target monster away.
+Takes 50 turns to recharge.
+Your chance of success is 98.2%
+
+
+Min Level 30, Max Level 127, Generation chance 1, Power 359, 7.0 lbs
+
+
+the Scythe 'Avavir' (5d3) (+18,+12) [+30] <+3, +1>
+--------------------------------------------------
++3 dexterity.
++3 speed.
+Branded with cold, fire.
+Provides resistance to fire, frost, light.
+Cannot be harmed by acid, fire.
+Prevents paralysis.  Grants the ability to see invisible things.  
+Radius 1 light.
+
+When activated, it returns you from the dungeon or takes you to the dungeon
+after a short delay.
+Takes 200 turns to recharge.
+Your chance of success is 97.5%
+
+
+Min Level 45, Max Level 100, Generation chance 12, Power 312, 18.0 lbs
+
+
+the Beaked Axe of Húrin (3d6) (+12,+15) <+2, +1>
+-------------------------------------------------
++2 strength.
++2 constitution.
+Slays dragons, trolls, demons (powerfully).
+Branded with acid.
+Provides resistance to acid, fire, dark.
+Cannot be harmed by acid, fire.
+Radius 1 light.
+
+When activated, it puts you in a berserker rage for d50+50 turns.
+Takes 81 to 160 turns to recharge.
+Your chance of success is 98.8%
+
+
+Min Level 20, Max Level 100, Generation chance 7, Power 223, 18.0 lbs
+
+
+the Lucerne Hammer 'Turmil' (2d5) (+10,+11) [+8] <+4, +1>
+---------------------------------------------------------
++4 wisdom.
++4 infravision.
+Slays orcs.
+Branded with cold.
+Provides immunity to frost.
+Provides resistance to light.
+Cannot be harmed by acid, fire.
+Blessed by the gods.  Speeds regeneration.  
+Radius 1 light.
+
+When activated, it drains up to 90 hit points of life from a target creature. 
+Does not affect undead, demons, golems, elementals or vortices.
+Takes 40 turns to recharge.
+Your chance of success is 98.8%
+
+
+Min Level 20, Max Level 100, Generation chance 7, Power 195, 12.0 lbs
+
+
+
+
+Hafted Weapons
+==============
+
+the Mighty Hammer 'Grond' (9d9) (+5,+25) [+10]
+----------------------------------------------
+Slays dragons (powerfully), animals, evil creatures, undead (powerfully),
+demons (powerfully), trolls, orcs.
+Cannot be harmed by acid, fire.
+Grants telepathy.  Grants the ability to see invisible things.  Aggravates
+creatures nearby.  
+
+
+Min Level 100, Max Level 100, Generation chance 0, Power 705, 100.0 lbs
+
+
+the Flail 'Totila' (3d6) (+16,+12) <+2>
+---------------------------------------
++2 stealth.
++2 speed.
+Slays evil creatures.
+Branded with fire.
+Provides resistance to fire.
+Provides protection from confusion.
+Cannot be harmed by acid, fire.
+
+When activated, it confuses a target monster.
+Takes 15 turns to recharge.
+Your chance of success is 98.8%
+
+
+Min Level 20, Max Level 65, Generation chance 12, Power 230, 15.0 lbs
+
+
+the Two-Handed Great Flail 'Thunderfist' (4d6) (+5,+18) <+4, +3>
+----------------------------------------------------------------
++4 strength.
++3 constitution.
+Slays animals, trolls, orcs.
+Branded with fire, lightning.
+Provides resistance to lightning, fire, dark.
+Provides protection from fear.
+Cannot be harmed by acid, fire.
+
+
+Min Level 45, Max Level 127, Generation chance 3, Power 277, 30.0 lbs
+
+
+the Morning Star 'Bloodspike' (2d6) (+8,+22) <+4>
+-------------------------------------------------
++4 strength.
+Slays animals, trolls, orcs.
+Branded with poison.
+Provides resistance to nexus.
+Cannot be harmed by acid, fire.
+Grants the ability to see invisible things.  
+
+
+Min Level 20, Max Level 75, Generation chance 3, Power 176, 15.0 lbs
+
+
+the Morning Star 'Firestar' (2d6) (+15,+17) [+2]
+------------------------------------------------
+Branded with fire.
+Provides immunity to fire.
+Cannot be harmed by acid, fire.
+
+When activated, it creates a fire ball with damage 72.
+Takes 20 turns to recharge.
+Your chance of success is 98.8%
+
+
+Min Level 20, Max Level 100, Generation chance 7, Power 165, 15.0 lbs
+
+
+the Mace 'Taratol' (3d4) (+12,+12)
+----------------------------------
+Slays dragons (powerfully).
+Branded with lightning.
+Provides immunity to lightning.
+Cannot be harmed by acid, fire.
+
+When activated, it hastens you for d20+20 turns.
+Takes 101 to 200 turns to recharge.
+Your chance of success is 98.8%
+
+
+Min Level 20, Max Level 100, Generation chance 7, Power 146, 20.0 lbs
+
+
+the Great Hammer of Aulë (18d1) (+19,+21) [+5] <+4, +8>
+--------------------------------------------------------
++4 wisdom.
++8 tunneling.
+Slays dragons (powerfully), evil creatures, undead, demons.
+Branded with acid.
+Provides resistance to acid, lightning, fire, frost, nexus.
+Provides protection from fear.
+Cannot be harmed by acid, fire.
+Prevents paralysis.  Grants the ability to see invisible things.  
+
+
+Min Level 40, Max Level 127, Generation chance 1, Power 396, 12.0 lbs
+
+
+the Quarterstaff 'Nar-i-vagil' (1d9) (+10,+20) <+4>
+---------------------------------------------------
++4 intelligence.
+Slays animals.
+Branded with fire.
+Provides resistance to fire, poison gas.
+Cannot be harmed by acid, fire.
+
+
+Min Level 20, Max Level 80, Generation chance 5, Power 153, 15.0 lbs
+
+
+the Quarterstaff 'Eriril' (1d9) (+13,+15) <+4, +1>
+--------------------------------------------------
++4 intelligence.
++4 wisdom.
+Slays evil creatures.
+Provides resistance to light.
+Cannot be harmed by acid, fire.
+Grants the ability to see invisible things.  
+Radius 1 light.
+
+When activated, it reveals to you the extent of an item's magical powers.
+Takes 10 turns to recharge.
+Your chance of success is 98.8%
+
+
+Min Level 20, Max Level 100, Generation chance 5, Power 167, 15.0 lbs
+
+
+the Quarterstaff of Olórin (2d9) (+10,+13) <+4>
+------------------------------------------------
++4 intelligence.
++4 wisdom.
+Slays demons (powerfully), evil creatures, trolls, orcs.
+Branded with fire.
+Provides resistance to fire, nether.
+Cannot be harmed by acid, fire.
+Sustains your life force.  Grants the ability to see invisible things.  
+
+When activated, it gives you information on the health and abilities of
+monsters you can see.
+Takes 20 turns to recharge.
+Your chance of success is 98.2%
+
+
+Min Level 30, Max Level 100, Generation chance 1, Power 236, 15.0 lbs
+
+
+the Mace of Disruption 'Deathwreaker' (7d8) (+18,+18) <+6, +4>
+--------------------------------------------------------------
++6 strength.
++4 tunneling.
+Slays dragons, animals, evil creatures, undead (powerfully).
+Branded with fire.
+Provides immunity to fire.
+Provides resistance to dark, chaos, disenchantment.
+Cannot be harmed by acid, fire.
+Aggravates creatures nearby.  
+
+
+Min Level 80, Max Level 127, Generation chance 3, Power 539, 40.0 lbs
+
+
+the Whip of Gothmog (6d3) (+13,+15) <+3, -3, +1>
+------------------------------------------------
+Heavily cursed.
++3 strength.
+-3 intelligence.
+-3 wisdom.
+-3 dexterity.
+Slays animals, dragons (powerfully), trolls, giants.
+Branded with fire.
+Provides immunity to fire.
+Provides resistance to lightning, dark.
+Cannot be harmed by acid, fire.
+Aggravates creatures nearby.  
+Radius 1 light.
+
+When activated, it creates a fire ball with damage 144.
+Takes 15 turns to recharge.
+Your chance of success is 96.0%
+
+
+Min Level 60, Max Level 127, Generation chance 4, Power 159, 9.0 lbs
+
+
+the Ball-and-Chain of Fundin Bluecloak (4d4) (+13,+17) [+10] <+4, +1>
+---------------------------------------------------------------------
++4 strength.
++4 wisdom.
+Slays evil creatures, undead.
+Provides resistance to lightning, fire, nether.
+Cannot be harmed by acid, fire.
+Sustains your life force.  
+Radius 1 light.
+
+When activated, it deals five times your level's damage to all evil creatures
+that you can see.
+Takes 101 to 200 turns to recharge.
+Your chance of success is 95.6%
+
+
+Min Level 65, Max Level 127, Generation chance 2, Power 276, 13.0 lbs
+
+
+
+
+Bows
+====
+
+the Long Bow 'Belthronding' (x3) (+20,+22) <+3, +1>
+---------------------------------------------------
++3 dexterity.
++1 stealth.
++1 speed.
++1 shooting speed.
+Provides resistance to disenchantment.
+Cannot be harmed by acid, fire.
+
+
+Min Level 40, Max Level 127, Generation chance 5, Power 218, 4.0 lbs
+
+
+the Long Bow of Bard (x5) (+17,+19) <+1, +2>
+--------------------------------------------
++1 dexterity.
++1 speed.
++2 shooting power.
+Cannot be harmed by acid, fire.
+Prevents paralysis.  
+
+
+Min Level 40, Max Level 127, Generation chance 5, Power 148, 4.0 lbs
+
+
+the Light Crossbow 'Cubragol' (x3) (+10,+14) <+10>
+--------------------------------------------------
++10 speed.
+Branded with fire.
+Provides resistance to fire.
+Cannot be harmed by acid, fire.
+
+
+Min Level 50, Max Level 127, Generation chance 4, Power 271, 11.0 lbs
+
+
+the Heavy Crossbow of Umbar (x6) (+18,+18) <+1, +2>
+---------------------------------------------------
++1 strength.
++1 constitution.
++2 shooting power.
+Provides resistance to lightning, light, dark.
+Provides protection from blindness.
+Cannot be harmed by acid, fire.
+Aggravates creatures nearby.  
+
+When activated, it fires a magical arrow with damage 150.
+Takes 21 to 40 turns to recharge.
+Your chance of success is 96.0%
+
+
+Min Level 60, Max Level 127, Generation chance 5, Power 199, 20.0 lbs
+
+
+the Short Bow of Amrod (x4) (+12,+15) <+2>
+------------------------------------------
++2 strength.
++2 constitution.
++2 shooting power.
+Provides resistance to lightning, fire, frost.
+Cannot be harmed by acid, fire.
+Speeds regeneration.  
+
+
+Min Level 30, Max Level 100, Generation chance 10, Power 165, 3.0 lbs
+
+
+the Short Bow of Amras (x3) (+12,+15) <+2, +1>
+----------------------------------------------
++2 intelligence.
++2 wisdom.
++2 dexterity.
++1 speed.
++1 shooting speed.
++1 shooting power.
+Provides resistance to lightning, fire, frost.
+Cannot be harmed by acid, fire.
+Slows your metabolism.  
+
+
+Min Level 30, Max Level 80, Generation chance 10, Power 215, 3.0 lbs
+
+
+
+
+Diggers
+=======
+
+the Mattock of Náin (2d8) (+12,+18) <+4, +6>
+---------------------------------------------
++4 strength.
++4 searching skill.
++4 infravision.
++6 tunneling.
+Slays orcs, trolls, giants, dragons.
+Provides resistance to dark, disenchantment.
+
+When activated, it turns rock into mud.
+Takes 2 turns to recharge.
+Your chance of success is 96.0%
+
+
+Min Level 60, Max Level 100, Generation chance 12, Power 287, 24.0 lbs
+
+
+the Pick of Erebor (4d3) (+5,+20) <+3, +5, +1>
+----------------------------------------------
++3 strength.
++3 constitution.
++5 tunneling.
+Slays orcs, trolls, demons.
+Branded with acid.
+Provides resistance to light, dark, chaos.
+Sustains strength.
+Radius 1 light.
+
+
+Min Level 55, Max Level 100, Generation chance 20, Power 294, 18.0 lbs
+
+
+
+
+Body Armor
+==========
+
+the Hard Leather Armour of Himring [20,+15]
+-------------------------------------------
+Provides resistance to poison gas, nether, chaos.
+Cannot be harmed by acid, fire.
+
+When activated, it grants you protection from evil for 1d25 plus 3 times your
+character level turns.
+Takes 101 to 200 turns to recharge.
+Your chance of success is 96.8%
+
+
+Min Level 25, Max Level 90, Generation chance 20, Power 168, 10.0 lbs
+
+
+the Soft Leather Armour 'Hithlomir' [10,+20] <+3>
+-------------------------------------------------
++3 stealth.
+Provides resistance to acid, lightning, fire, frost, dark, nether.
+Cannot be harmed by acid, fire.
+
+
+Min Level 20, Max Level 80, Generation chance 20, Power 174, 8.0 lbs
+
+
+the Leather Scale Mail 'Thalkettoth' (-1) [20,+25] <+3>
+-------------------------------------------------------
++3 dexterity.
++3 speed.
+Provides resistance to acid, shards.
+Cannot be harmed by acid, fire.
+Prevents paralysis.  
+
+
+Min Level 30, Max Level 100, Generation chance 20, Power 236, 6.0 lbs
+
+
+the Adamantite Plate Mail 'Soulkeeper' (-4) [90,+20] <+2>
+---------------------------------------------------------
++2 constitution.
+Provides resistance to acid, frost, dark, nexus, nether, chaos.
+Provides protection from fear.
+Cannot be harmed by acid.
+Sustains constitution.
+Sustains your life force.  
+
+When activated, it heals 1000 hit points.
+Takes 444 turns to recharge.
+Your chance of success is 94.6%
+
+
+Min Level 75, Max Level 127, Generation chance 11, Power 381, 42.0 lbs
+
+
+the Full Plate Armour of Isildur [75,+25] <+1>
+----------------------------------------------
++1 constitution.
+Provides resistance to acid, lightning, fire, frost, sound, nexus.
+Provides protection from confusion.
+Cannot be harmed by acid.
+
+
+Min Level 55, Max Level 127, Generation chance 30, Power 343, 30.0 lbs
+
+
+the Metal Brigandine Armour of the Rohirrim [50,+15] <+2>
+---------------------------------------------------------
++2 strength.
++2 dexterity.
+Provides resistance to acid, lightning, fire, frost, sound.
+Provides protection from fear, confusion.
+Cannot be harmed by acid.
+
+
+Min Level 45, Max Level 100, Generation chance 30, Power 284, 20.0 lbs
+
+
+the Mithril Chain Mail 'Belegennon' (-1) [35,+20] <+4, +2>
+----------------------------------------------------------
++4 dexterity.
++2 stealth.
+Provides resistance to acid, lightning, fire, frost, poison gas.
+Cannot be harmed by acid.
+
+When activated, it teleports you randomly up to 10 squares away.
+Takes 2 turns to recharge.
+Your chance of success is 97.5%
+
+
+Min Level 55, Max Level 127, Generation chance 30, Power 254, 15.0 lbs
+
+
+the Mithril Plate Mail of Celeborn (-3) [65,+25] <+3>
+-----------------------------------------------------
++3 strength.
+Provides resistance to acid, lightning, fire, frost, dark, disenchantment.
+Cannot be harmed by acid.
+
+When activated, it removes all non-unique monsters represented by a chosen
+symbol from the level, dealing you damage in the process.
+Takes 500 turns to recharge.
+Your chance of success is 97.5%
+
+
+Min Level 65, Max Level 127, Generation chance 30, Power 345, 25.0 lbs
+
+
+the Chain Mail of Arvedui (-2) [40,+15] <+2>
+--------------------------------------------
++2 strength.
+Provides resistance to acid, lightning, fire, frost, shards, nexus.
+Cannot be harmed by acid.
+
+
+Min Level 20, Max Level 75, Generation chance 30, Power 193, 22.0 lbs
+
+
+the Augmented Chain Mail of Caspanion (-2) [45,+20] <+2, +3>
+------------------------------------------------------------
++2 intelligence.
++2 wisdom.
++3 constitution.
+Provides resistance to acid, poison gas.
+Provides protection from confusion.
+Cannot be harmed by acid.
+
+When activated, it destroys all traps and doors surrounding you.
+Takes 10 turns to recharge.
+Your chance of success is 98.5%
+
+
+Min Level 35, Max Level 100, Generation chance 11, Power 230, 27.0 lbs
+
+
+the Multi-Hued Dragon Scale Mail 'Razorback' (-4) [50,+25] <+1>
+---------------------------------------------------------------
+Provides immunity to lightning.
+Provides resistance to acid, fire, frost, poison gas, light, dark,
+disenchantment.
+Prevents paralysis.  Grants the ability to see invisible things.  Aggravates
+creatures nearby.  
+Radius 1 light.
+
+When activated, it fires balls of electricity in all directions, each one
+causing 150 damage.
+Takes 50 turns to recharge.
+Your chance of success is 92.9%
+
+
+Min Level 90, Max Level 127, Generation chance 11, Power 387, 20.0 lbs
+
+
+the Power Dragon Scale Mail 'Bladeturner' (-8) [80,+35]
+-------------------------------------------------------
+Provides resistance to acid, lightning, fire, frost, poison gas, light, dark,
+sound, shards, nexus, nether, chaos, disenchantment.
+Provides protection from fear, blindness, confusion.
+Speeds regeneration.  Sustains your life force.  
+
+When activated, it bestows upon you berserk rage, bless, and resistance.
+Takes 50 turns to recharge.
+Your chance of success is 91.5%
+
+
+Min Level 100, Max Level 127, Generation chance 6, Power 814, 25.0 lbs
+
+
+the Balance Dragon Scale Mail 'Mediator' (-4) [60,+25]
+------------------------------------------------------
+Provides resistance to sound, shards, nexus, chaos, disenchantment.
+Slows your metabolism.  Speeds regeneration.  Prevents paralysis.  
+
+When activated, it fires balls of electricity in all directions, each one
+causing 150 damage.
+Takes 50 turns to recharge.
+Your chance of success is 92.2%
+
+
+Min Level 95, Max Level 127, Generation chance 8, Power 363, 25.0 lbs
+
+
+
+
+Cloaks
+======
+
+the Cloak 'Colluin' [1,+15]
+---------------------------
+A traveller's sturdy outer garment.
+
+Provides resistance to acid, lightning, fire, frost, poison gas.
+Cannot be harmed by acid, fire.
+
+When activated, it grants temporary resistance to acid, electricity, fire, cold
+and poison for 1d20+20 turns.
+Takes 111 turns to recharge.
+Your chance of success is 99.0%
+
+
+Min Level 5, Max Level 100, Generation chance 2, Power 115, 1.0 lbs
+
+
+the Cloak 'Holcolleth' [1,+4] <+2, +3>
+--------------------------------------
+A traveller's sturdy outer garment.
+
++2 intelligence.
++2 wisdom.
++3 stealth.
+Provides resistance to acid.
+Cannot be harmed by acid, fire.
+
+When activated, it puts to sleep the monsters around you.
+Takes 55 turns to recharge.
+Your chance of success is 99.0%
+
+
+Min Level 5, Max Level 100, Generation chance 5, Power 75, 1.0 lbs
+
+
+the Cloak of Thingol [1,+18] <+3>
+---------------------------------
+A traveller's sturdy outer garment.
+
++3 dexterity.
+Provides resistance to acid, fire, frost.
+Cannot be harmed by acid, fire.
+Prevents paralysis.  
+
+When activated, it tries to recharge a wand or staff, destroying the wand or
+staff on failure.
+Takes 70 turns to recharge.
+Your chance of success is 99.0%
+
+
+Min Level 5, Max Level 100, Generation chance 5, Power 108, 1.0 lbs
+
+
+the Cloak of Thorongil [1,+10]
+------------------------------
+A traveller's sturdy outer garment.
+
+Provides resistance to acid.
+Provides protection from fear.
+Cannot be harmed by acid, fire.
+Prevents paralysis.  Grants the ability to see invisible things.  
+
+
+Min Level 5, Max Level 75, Generation chance 10, Power 66, 1.0 lbs
+
+
+the Cloak 'Colannon' [1,+15] <+2>
+---------------------------------
+A traveller's sturdy outer garment.
+
++2 stealth.
++2 speed.
+Provides resistance to nexus.
+Cannot be harmed by acid, fire.
+
+When activated, it teleports you randomly up to 100 squares away.
+Takes 45 turns to recharge.
+Your chance of success is 99.0%
+
+
+Min Level 5, Max Level 100, Generation chance 5, Power 105, 1.0 lbs
+
+
+the Elven Cloak of Lúthien [6,+20] <+4, +3, +2>
+------------------------------------------------
+A mantle made of curious silken material by the Galadrim that wondrously takes
+on the hues and shapes of its surroundings.
+
++4 intelligence.
++4 wisdom.
++3 stealth.
++2 speed.
+Provides resistance to acid, fire, frost.
+Cannot be harmed by acid, fire.
+
+When activated, it restores your experience to full.
+Takes 250 turns to recharge.
+Your chance of success is 97.5%
+
+
+Min Level 40, Max Level 127, Generation chance 2, Power 210, 0.5 lbs
+
+
+the Ethereal Cloak of Tuor [6,+12] <+4>
+---------------------------------------
+This unearthly, completely transparent body mantle folds and drapes in
+iridescent patterns around you.  It weighs absolutely nothing.
+
++4 dexterity.
++4 stealth.
+Provides immunity to acid.
+Cannot be harmed by acid, fire.
+Prevents paralysis.  Grants the ability to see invisible things.  
+
+
+Min Level 70, Max Level 127, Generation chance 2, Power 194, 0.0 lbs
+
+
+
+
+Shields
+=======
+
+the Mithril Shield of Gil-galad [20,+20] <+5, +1>
+-------------------------------------------------
++5 wisdom.
+Provides resistance to acid, lightning, dark, disenchantment.
+Cannot be harmed by acid.
+Sustains wisdom, dexterity.
+Radius 1 light.
+
+When activated, it fires a line of light in all directions, each one causing
+10d8 damage.
+Takes 100 turns to recharge.
+Your chance of success is 95.1%
+
+
+Min Level 70, Max Level 127, Generation chance 25, Power 213, 8.0 lbs
+
+
+the Small Metal Shield of Thorin [5,+25] <+3, +4, -1>
+-----------------------------------------------------
++3 strength.
++4 constitution.
+-1 stealth.
+Provides immunity to acid.
+Provides resistance to sound, chaos.
+Provides protection from fear.
+Cannot be harmed by acid.
+Prevents paralysis.  
+
+
+Min Level 40, Max Level 127, Generation chance 14, Power 229, 6.5 lbs
+
+
+the Leather Shield of Celegorm [8,+20]
+--------------------------------------
+Provides resistance to acid, lightning, fire, frost, light, dark.
+Provides protection from blindness.
+Cannot be harmed by acid.
+
+
+Min Level 30, Max Level 100, Generation chance 28, Power 152, 6.0 lbs
+
+
+the Large Metal Shield of Anárion [12,+20]
+-------------------------------------------
+Provides resistance to acid, lightning, fire, frost.
+Cannot be harmed by acid.
+Sustains strength, intelligence, wisdom, dexterity, constitution.
+
+
+Min Level 40, Max Level 100, Generation chance 11, Power 169, 12.0 lbs
+
+
+the Leather Shield of the Haradrim (+5,+5) [9,+15] <+2>
+-------------------------------------------------------
++2 strength.
++2 constitution.
+Provides resistance to poison gas.
+Provides protection from fear, blindness.
+Cannot be harmed by acid.
+Sustains strength, constitution.
+
+When activated, it puts you in a berserker rage for d50+50 turns.
+Takes 50 turns to recharge.
+Your chance of success is 97.9%
+
+
+Min Level 35, Max Level 127, Generation chance 10, Power 221, 9.0 lbs
+
+
+the Wicker Shield of Elros [2,+20] <+1, +4>
+-------------------------------------------
+A light circular frame of wood surrounding fine-grained wickerwork.
+
++1 intelligence.
++1 wisdom.
++4 constitution.
+Provides resistance to lightning, shards.
+Provides protection from confusion.
+Cannot be harmed by acid.
+Sustains your life force.  
+
+
+Min Level 50, Max Level 127, Generation chance 10, Power 148, 3.0 lbs
+
+
+
+
+Helms/Crowns
+============
+
+the Metal Cap of Celebrimbor [3,+18] <+2, +3>
+---------------------------------------------
++2 intelligence.
++2 dexterity.
++3 searching skill.
+Provides resistance to acid, fire, shards, disenchantment.
+Cannot be harmed by acid.
+
+
+Min Level 55, Max Level 100, Generation chance 8, Power 123, 2.0 lbs
+
+
+the Hard Leather Cap of Thranduil [2,+10] <+2>
+----------------------------------------------
++2 intelligence.
++2 wisdom.
+Provides protection from blindness.
+Cannot be harmed by acid.
+Grants telepathy.  
+
+
+Min Level 40, Max Level 100, Generation chance 14, Power 134, 1.5 lbs
+
+
+the Metal Cap of Thengel [3,+12] <+3>
+-------------------------------------
++3 wisdom.
+Provides protection from confusion.
+Cannot be harmed by acid.
+
+
+Min Level 10, Max Level 100, Generation chance 18, Power 73, 2.0 lbs
+
+
+the Steel Helm of Hammerhand [9,+20] <+3>
+-----------------------------------------
++3 strength.
++3 dexterity.
++3 constitution.
+Provides resistance to acid, frost, dark, nexus.
+Cannot be harmed by acid.
+Prevents paralysis.  
+
+
+Min Level 40, Max Level 127, Generation chance 11, Power 230, 6.0 lbs
+
+
+the Iron Helm of Dor-Lómin [7,+20] <+4, +2, -1>
+------------------------------------------------
++4 strength.
++2 dexterity.
++4 constitution.
+-1 stealth.
+Provides resistance to acid, lightning, fire, frost.
+Provides protection from fear.
+Cannot be harmed by acid.
+Grants telepathy.  Grants the ability to see invisible things.  
+
+
+Min Level 40, Max Level 127, Generation chance 5, Power 306, 5.0 lbs
+
+
+the Iron Helm 'Holhenneth' [7,+10] <+2>
+---------------------------------------
++2 intelligence.
++2 wisdom.
++2 searching skill.
+Provides protection from blindness, confusion.
+Cannot be harmed by acid.
+Grants the ability to see invisible things.  
+
+When activated, it detects treasure, traps, doors, stairs, and all creatures
+nearby.
+Takes 56 to 110 turns to recharge.
+Your chance of success is 98.8%
+
+
+Min Level 20, Max Level 100, Generation chance 18, Power 134, 5.0 lbs
+
+
+the Iron Helm of Gorlim (+8,+8) [7,+10] <-3, -5>
+------------------------------------------------
+Heavily cursed.
+-3 intelligence.
+-3 wisdom.
+-5 searching skill.
+Provides protection from fear.
+Cannot be harmed by acid.
+Prevents paralysis.  Grants the ability to see invisible things.  Aggravates
+creatures nearby.  
+
+
+Min Level 20, Max Level 75, Generation chance 18, Power 60, 7.5 lbs
+
+
+the Massive Iron Crown of Morgoth [0,+0] <+125, +1>
+---------------------------------------------------
+Permanently cursed.
++125 strength.
++125 intelligence.
++125 wisdom.
++125 dexterity.
++125 constitution.
++125 infravision.
+Provides resistance to acid, lightning, fire, frost, poison gas, light, dark,
+nexus, nether.
+Provides protection from fear, confusion.
+Cannot be harmed by acid.
+Grants telepathy.  Grants the ability to see invisible things.  
+Radius 1 light.
+
+
+Min Level 100, Max Level 100, Generation chance 0, Power 25653, 40.0 lbs
+
+
+the Iron Crown of Berúthiel [0,+20] <-3, -5>
+---------------------------------------------
+Heavily cursed.
+-3 strength.
+-3 dexterity.
+-5 constitution.
+Cannot be harmed by acid.
+Prevents paralysis.  Grants telepathy.  Grants the ability to see invisible
+things.  
+
+
+Min Level 45, Max Level 100, Generation chance 8, Power 4, 2.0 lbs
+
+
+the Golden Crown of Gondor [0,+15] <+3, +2, +1>
+-----------------------------------------------
++3 strength.
++2 wisdom.
++3 constitution.
+Provides resistance to fire, frost, light.
+Provides protection from blindness, confusion, stunning.
+Cannot be harmed by acid.
+Speeds regeneration.  Grants the ability to see invisible things.  
+Radius 1 light.
+
+When activated, it heals 500 hit points.
+Takes 250 turns to recharge.
+Your chance of success is 97.5%
+
+
+Min Level 45, Max Level 127, Generation chance 5, Power 251, 3.0 lbs
+
+
+the Jewel Encrusted Crown of Númenor [0,+18] <+3, +2, +1>
+----------------------------------------------------------
++3 intelligence.
++2 dexterity.
++3 searching skill.
+Provides resistance to frost, light, dark, shards.
+Provides protection from blindness, stunning.
+Cannot be harmed by acid.
+Prevents paralysis.  Grants the ability to see invisible things.  
+Radius 1 light.
+
+
+Min Level 60, Max Level 127, Generation chance 5, Power 194, 4.0 lbs
+
+
+
+
+Gloves
+======
+
+the Set of Gauntlets of Eöl [3,+14] <+3>
+-----------------------------------------
++3 intelligence.
+Provides immunity to fire.
+Provides resistance to lightning, poison gas, dark.
+Cannot be harmed by acid, fire.
+Feather Falling.  Prevents paralysis.  Aggravates creatures nearby.  
+
+When activated, it fires a mana bolt with damage 12d8.
+Takes 31 to 60 turns to recharge.
+Your chance of success is 96.4%
+
+
+Min Level 55, Max Level 127, Generation chance 3, Power 191, 2.5 lbs
+
+
+the Set of Leather Gloves 'Cambeleg' (+8,+8) [1,+15] <+2>
+---------------------------------------------------------
++2 strength.
++2 constitution.
+Cannot be harmed by acid, fire.
+Prevents paralysis.  
+
+
+Min Level 10, Max Level 100, Generation chance 3, Power 182, 0.5 lbs
+
+
+the Set of Leather Gloves 'Cammithrim' (+5,+5) [1,+10] <+1>
+-----------------------------------------------------------
+Provides resistance to light.
+Cannot be harmed by acid, fire.
+Sustains constitution.
+Prevents paralysis.  
+Radius 1 light.
+
+When activated, it fires a magic missile with damage 3d4.
+Takes 2 turns to recharge.
+Your chance of success is 99.0%
+
+
+Min Level 10, Max Level 80, Generation chance 18, Power 127, 0.5 lbs
+
+
+the Set of Gauntlets 'Paurhach' [3,+14]
+---------------------------------------
+Provides resistance to fire.
+Cannot be harmed by acid, fire.
+Speeds regeneration.  
+
+When activated, it creates a fire bolt with damage 9d8.
+Takes 9 to 16 turns to recharge.
+Your chance of success is 99.0%
+
+
+Min Level 10, Max Level 60, Generation chance 40, Power 57, 2.5 lbs
+
+
+the Set of Gauntlets 'Paurnimmen' [3,+14]
+-----------------------------------------
+It brands your melee attacks with weak cold.
+Provides resistance to frost.
+Cannot be harmed by acid, fire.
+Slows your metabolism.  
+
+When activated, it creates a frost bolt with damage 6d8.
+Takes 8 to 14 turns to recharge.
+Your chance of success is 98.8%
+
+
+Min Level 50, Max Level 127, Generation chance 5, Power 173, 2.5 lbs
+
+
+the Set of Gauntlets 'Pauraegen' [3,+14] <+1>
+---------------------------------------------
+Provides resistance to lightning, light.
+Cannot be harmed by acid, fire.
+Radius 1 light.
+
+When activated, it creates a lightning bolt (that always beams) with damage
+6d6.
+Takes 7 to 12 turns to recharge.
+Your chance of success is 99.0%
+
+
+Min Level 10, Max Level 75, Generation chance 23, Power 56, 2.5 lbs
+
+
+the Set of Gauntlets 'Paurnen' (+3,+3) [3,+14]
+----------------------------------------------
+Provides resistance to acid.
+Cannot be harmed by acid, fire.
+Feather Falling.  
+
+When activated, it creates an acid bolt with damage 5d8.
+Takes 6 to 10 turns to recharge.
+Your chance of success is 99.0%
+
+
+Min Level 10, Max Level 60, Generation chance 30, Power 72, 2.5 lbs
+
+
+the Set of Gauntlets 'Camlost' (-12,-12) [3,+0] <-3>
+----------------------------------------------------
+Heavily cursed.
+-3 strength.
+-3 dexterity.
+Provides resistance to fire, disenchantment.
+Cannot be harmed by acid, fire.
+Prevents paralysis.  Aggravates creatures nearby.  Drains experience.  
+
+
+Min Level 10, Max Level 100, Generation chance 5, Power -151, 2.5 lbs
+
+
+the Set of Caestus of Fingolfin (+10,+10) [5,+20] <+4>
+------------------------------------------------------
+An ancient battle glove designed for hand-to-hand fighting.  Its layered
+leather thongs are enhanced for combat by bloody-looking spikes.
+
++4 dexterity.
+Provides resistance to acid.
+Cannot be harmed by acid, fire.
+Prevents paralysis.  
+
+When activated, it fires a magical arrow with damage 150.
+Takes 31 to 60 turns to recharge.
+Your chance of success is 97.5%
+
+
+Min Level 40, Max Level 127, Generation chance 3, Power 261, 4.0 lbs
+
+
+
+
+Boots
+=====
+
+the Pair of Leather Boots of Fëanor [2,+20] <+15>
+--------------------------------------------------
++15 speed.
+Provides resistance to nexus.
+Cannot be harmed by acid, fire.
+
+When activated, it hastens you for d20+20 turns.
+Takes 200 turns to recharge.
+Your chance of success is 97.5%
+
+
+Min Level 40, Max Level 127, Generation chance 1, Power 369, 2.0 lbs
+
+
+the Pair of Leather Boots 'Dal-i-thalion' [2,+15] <+5>
+------------------------------------------------------
++5 dexterity.
++5 speed.
+Provides resistance to nether.
+Provides protection from confusion.
+Cannot be harmed by acid, fire.
+Sustains constitution.
+Prevents paralysis.  
+
+When activated, it cures you of fear and poison.
+Takes 5 turns to recharge.
+Your chance of success is 99.0%
+
+
+Min Level 50, Max Level 100, Generation chance 4, Power 248, 2.0 lbs
+
+
+the Pair of Steel Shod Boots of Thrór [7,+20] <+3, -1>
+-------------------------------------------------------
++3 strength.
++3 constitution.
+-1 stealth.
++3 speed.
+Provides protection from fear.
+Cannot be harmed by acid, fire.
+
+
+Min Level 30, Max Level 100, Generation chance 5, Power 179, 6.0 lbs
+
+
+the Pair of Leather Boots of Wormtongue (-1,-1) [2,+0] <+2, +3>
+---------------------------------------------------------------
+Cursed.
++2 intelligence.
++2 dexterity.
++2 stealth.
++3 speed.
+Cannot be harmed by acid, fire.
+Feather Falling.  
+
+When activated, it teleports you randomly up to 10 squares away.
+Takes 20 turns to recharge.
+Your chance of success is 99.0%
+
+
+Min Level 15, Max Level 80, Generation chance 8, Power 109, 2.0 lbs
+
+
+the Pair of Leather Boots of Radagast [2,+12] <+1, +3, +5>
+----------------------------------------------------------
++1 wisdom.
++3 stealth.
++5 infravision.
+Provides resistance to frost.
+Cannot be harmed by acid, fire.
+Feather Falling.  Prevents paralysis.  
+
+
+Min Level 15, Max Level 70, Generation chance 8, Power 110, 2.0 lbs
+
+
+the Pair of Mithril Shod Boots 'Stormwalker' [8,+24] <+6>
+---------------------------------------------------------
++6 speed.
+Provides immunity to lightning.
+Provides resistance to sound.
+Cannot be harmed by acid, fire.
+
+When activated, it puts you in a berserker rage for d50+50 turns.
+Takes 100 turns to recharge.
+Your chance of success is 98.2%
+
+
+Min Level 60, Max Level 127, Generation chance 3, Power 254, 4.0 lbs
+
+
+
+
+Light Sources
+=============
+
+the Phial of Galadriel <+3>
+---------------------------
+Cannot be harmed by fire.
+Radius 3 light.  Cannot be refueled.
+
+When activated, it lights up the surrounding area, hurting light-sensitive
+creatures.
+Takes 11 to 20 turns to recharge.
+Your chance of success is 99.0%
+
+
+Min Level 5, Max Level 100, Generation chance 40, Power 44, 1.0 lbs
+
+
+the Star of Elendil <+3>
+------------------------
+Cannot be harmed by fire.
+Grants the ability to see invisible things.  
+Radius 3 light.  Cannot be refueled.
+
+When activated, it maps the area around you.
+Takes 51 to 100 turns to recharge.
+Your chance of success is 98.2%
+
+
+Min Level 30, Max Level 100, Generation chance 4, Power 62, 0.5 lbs
+
+
+the Arkenstone of Thráin <+3>
+------------------------------
+Provides resistance to light, dark.
+Cannot be harmed by fire.
+Sustains your life force.  Grants the ability to see invisible things.  
+Radius 3 light.  Cannot be refueled.
+
+When activated, it maps the entire level and detects nearby objects, traps,
+doors, and stairs.
+Takes 51 to 100 turns to recharge.
+Your chance of success is 96.8%
+
+
+Min Level 50, Max Level 127, Generation chance 2, Power 119, 0.5 lbs
+
+
+
+
+Amulets
+=======
+
+the Amulet of Carlammas <+1, +3>
+--------------------------------
++1 strength.
++3 constitution.
+Provides resistance to fire.
+
+When activated, it grants you protection from evil for 1d25 plus 3 times your
+character level turns.
+Takes 226 to 450 turns to recharge.
+Your chance of success is 96.8%
+
+
+Min Level 50, Max Level 100, Generation chance 10, Power 69, 0.3 lbs
+
+
+the Pendant of Ingwë <+3, +4>
+------------------------------
++3 intelligence.
++3 wisdom.
++4 infravision.
+Provides resistance to acid, lightning, frost.
+Provides protection from confusion.
+Prevents paralysis.  Grants the ability to see invisible things.  
+
+When activated, it deals five times your level's damage to all evil creatures
+that you can see.
+Takes 51 to 100 turns to recharge.
+Your chance of success is 95.6%
+
+
+Min Level 65, Max Level 127, Generation chance 3, Power 158, 0.3 lbs
+
+
+the Necklace of the Dwarves <+3, +5, +1>
+----------------------------------------
++3 strength.
++3 constitution.
++5 infravision.
+Provides protection from fear.
+Speeds regeneration.  Prevents paralysis.  Grants the ability to see invisible
+things.  
+Radius 1 light.
+
+
+Min Level 50, Max Level 127, Generation chance 2, Power 171, 0.3 lbs
+
+
+the Elfstone 'Elessar' [+10] <+2>
+---------------------------------
++2 strength.
++2 wisdom.
++2 speed.
+Provides resistance to fire, poison gas.
+Provides protection from fear.
+
+When activated, it heals 500 hit points.
+Takes 200 turns to recharge.
+Your chance of success is 96.0%
+
+
+Min Level 60, Max Level 127, Generation chance 2, Power 143, 0.3 lbs
+
+
+the Jewel 'Evenstar' <+2>
+-------------------------
++2 wisdom.
+Provides resistance to frost, dark, nether.
+Sustains wisdom, constitution.
+Speeds regeneration.  Sustains your life force.  
+
+When activated, it restores your experience to full.
+Takes 150 turns to recharge.
+Your chance of success is 97.5%
+
+
+Min Level 30, Max Level 70, Generation chance 2, Power 120, 0.3 lbs
+
+
+
+
+Rings
+=====
+
+the Serpent Ring of Barahir <+1>
+--------------------------------
++1 strength.
++1 intelligence.
++1 wisdom.
++1 dexterity.
++1 constitution.
++1 stealth.
+Provides resistance to poison gas, dark.
+Cannot be harmed by lightning.
+
+
+Min Level 50, Max Level 100, Generation chance 4, Power 113, 0.2 lbs
+
+
+the Ring of Tulkas <+4>
+-----------------------
++4 strength.
++4 dexterity.
++4 constitution.
+Provides protection from fear.
+Cannot be harmed by lightning.
+
+When activated, it hastens you for d75+75 turns.
+Takes 151 to 300 turns to recharge.
+Your chance of success is 95.1%
+
+
+Min Level 70, Max Level 127, Generation chance 2, Power 177, 0.2 lbs
+
+
+the Ring of Fire 'Narya' (+2,+2) <+1, +5>
+-----------------------------------------
++1 strength.
++1 intelligence.
++1 wisdom.
++1 dexterity.
++1 constitution.
++5 speed.
+Provides immunity to fire.
+Provides protection from fear.
+Cannot be harmed by lightning.
+Sustains strength, constitution.
+Slows your metabolism.  Speeds regeneration.  Prevents paralysis.  Grants
+telepathy.  Grants the ability to see invisible things.  
+
+When activated, it grants you protection from evil for 1d25 plus 3 times your
+character level turns.
+Takes 204 to 400 turns to recharge.
+Your chance of success is 95.1%
+
+
+Min Level 70, Max Level 127, Generation chance 2, Power 387, 0.2 lbs
+
+
+the Ring of Adamant 'Nenya' (+3,+3) <+2, +5>
+--------------------------------------------
++2 strength.
++2 intelligence.
++2 wisdom.
++2 dexterity.
++2 constitution.
++5 speed.
+Provides immunity to frost.
+Provides protection from blindness.
+Cannot be harmed by lightning.
+Sustains intelligence, wisdom, constitution.
+Feather Falling.  Speeds regeneration.  Prevents paralysis.  Sustains your life
+force.  Grants telepathy.  Grants the ability to see invisible things.  
+
+When activated, it restores your experience to full.
+Takes 202 to 300 turns to recharge.
+Your chance of success is 94.1%
+
+
+Min Level 80, Max Level 127, Generation chance 2, Power 487, 0.2 lbs
+
+
+the Ring of Firmament 'Vilya' (+5,+5) <+3, +5>
+----------------------------------------------
++3 strength.
++3 intelligence.
++3 wisdom.
++3 dexterity.
++3 constitution.
++5 speed.
+Provides immunity to lightning.
+Provides resistance to poison gas, dark.
+Cannot be harmed by lightning.
+Sustains intelligence, dexterity, constitution.
+Slows your metabolism.  Feather Falling.  Speeds regeneration.  Prevents
+paralysis.  Sustains your life force.  Grants telepathy.  Grants the ability to
+see invisible things.  
+
+When activated, it heals 1000 hit points.
+Takes 202 to 300 turns to recharge.
+Your chance of success is 92.9%
+
+
+Min Level 90, Max Level 127, Generation chance 1, Power 644, 0.2 lbs
+
+
+the Ring of Power 'The One Ring' (+15,+15) <+5>
+-----------------------------------------------
+Permanently cursed.
++5 strength.
++5 intelligence.
++5 wisdom.
++5 dexterity.
++5 constitution.
++5 speed.
+Provides immunity to acid, lightning, fire, frost.
+Provides resistance to poison gas, dark, nether, disenchantment.
+Cannot be harmed by lightning.
+Sustains strength, intelligence, wisdom, dexterity, constitution.
+Speeds regeneration.  Grants telepathy.  Grants the ability to see invisible
+things.  Aggravates creatures nearby.  Drains experience.  
+
+When activated, it does bizarre things.
+Takes 209 to 650 turns to recharge.
+Your chance of success is 91.5%
+
+
+Min Level 100, Max Level 127, Generation chance 1, Power 40970, 0.2 lbs
+
+

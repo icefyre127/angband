@@ -1,0 +1,717 @@
+  [Angband 4.0.2 Character Dump]
+
+ Name   Aralorn      Age            106          Self  RB  CB  EB   Best
+ Race   High-Elf     Height        7'2"   STR! 18/100  +1  -3 +10 18/180
+ Class  Mage         Weight    14st 4lb   INT! 18/100  +3  +3  +7 18/***
+ Title  Arch-Mage    Turns used:          WIS! 18/100  -1  +0  +7 18/160
+ HP     884/884      Game       2004070   DEX! 18/100  +3  +0  +9 18/***
+ SP     326/379      Standard    288888   CON! 18/100  +1  -2 +12 18/210
+                     Resting      69140
+
+ Level                 49    Armor     [96,+119]    Saving Throw    100%
+ Cur Exp          9310010                           Stealth       Superb
+ Max Exp          9310010    Melee       5d8,+46    Disarming        92%
+ Adv Exp         10350000    To-hit       39,+54    Magic Devices    132
+                             Blows      4.0/turn    Perception    1 in 1
+ Gold             1050516                           Searching        54%
+ Burden         395.6 lbs    Shoot to-dam    +14    Infravision   100 ft
+ Speed                 26    To-hit       39,+48
+ Max Depth    4900' (L98)    Shots        1/turn
+
+ You are one of several children of a Telerin Ranger.  You have light
+ grey eyes, straight brown hair, and a fair complexion.
+
+
+
+rAcid:......++*+... Nexus:....+.+......
+rElec:......+..+... Nethr:.............
+rFire:.+*...++.+... Chaos:........+....
+rCold:...*..++.+... Disen:.............
+rPois:....+........ pFear:..+.....++...
+rLite:.....+....+.+ pBlnd:...+.........
+rDark:+....+....... pConf:......+......
+Sound:......+.+.... pStun:.............
+Shard:............. HLife:+..+.+.......
+
+Regen:..++......... Stea.:....+..+++.+.
+  ESP:..++.....+... Sear.:....+........
+Invis:+.++.+...+..+ Infra:....+.......+
+FrAct:+.++....+.+.. Tunn.:.............
+Feath:...+.......+. Speed:.++++..+...+.
+S.Dig:..+.......... Blows:.............
+ImpHP:............. Shots:.............
+ Fear:............. Might:.............
+Aggrv:............. Light:+....+....+..
+
+
+  [Character Equipment]
+
+a) a Mace of Disruption of Gondolin (5d8) (+16,+22) <+1>
+ Found lying on the floor in a vault at 4900 feet (level 98)
+ 
+ Slays demons, orcs, trolls, dragons, undead.
+ Provides resistance to dark.
+ Cannot be harmed by acid, fire.
+ Prevents paralysis.  Sustains your life force.  Grants the ability
+ to see invisible things.  
+ Radius 1 light.
+ 
+ Combat info:
+ 4.0 blows/round.
+ Average damage/round: 545.6 vs. demons, 545.6 vs. orcs, 545.6 vs.
+ trolls, 545.6 vs. dragons, 545.6 vs. undead, and 320.8 vs. others.
+ 
+b) the Light Crossbow 'Cubragol' (x3) (+10,+14) <+10>
+ Found lying on the floor in a vault at 4750 feet (level 95)
+ 
+ +10 speed.
+ Branded with fire.
+ Provides resistance to fire.
+ Cannot be harmed by acid, fire.
+ 
+c) the Ring of Fire 'Narya' (+2,+2) <+1, +5>
+ Found lying on the floor in a vault at 4850 feet (level 97)
+ 
+ +1 strength.
+ +1 intelligence.
+ +1 wisdom.
+ +1 dexterity.
+ +1 constitution.
+ +5 speed.
+ Provides immunity to fire.
+ Provides protection from fear.
+ Cannot be harmed by lightning.
+ Sustains strength, constitution.
+ Slows your metabolism.  Speeds regeneration.  Prevents paralysis. 
+ Grants telepathy.  Grants the ability to see invisible things.  
+ 
+ When activated, it grants you protection from evil for 1d25 plus 3
+ times your character level turns.
+ Takes 734 to 1440 turns to recharge at your current speed.
+ Your chance of success is 94.9%
+ 
+d) the Ring of Adamant 'Nenya' (+3,+3) <+2, +5>
+ Found lying on the floor in a pit at 4850 feet (level 97)
+ 
+ +2 strength.
+ +2 intelligence.
+ +2 wisdom.
+ +2 dexterity.
+ +2 constitution.
+ +5 speed.
+ Provides immunity to frost.
+ Provides protection from blindness.
+ Cannot be harmed by lightning.
+ Sustains intelligence, wisdom, constitution.
+ Feather Falling.  Speeds regeneration.  Prevents paralysis. 
+ Sustains your life force.  Grants telepathy.  Grants the ability
+ to see invisible things.  
+ 
+ When activated, it restores your experience to full.
+ Takes 727 to 1080 turns to recharge at your current speed.
+ Your chance of success is 93.9%
+ 
+e) an Amulet of Trickery <+4, +2, +7, +6, +3>
+ Found lying on the floor in a vault at 4650 feet (level 93)
+ 
+ +4 dexterity.
+ +2 stealth.
+ +7 searching skill.
+ +6 infravision.
+ +3 speed.
+ Provides resistance to poison gas, nexus.
+ Sustains dexterity.
+ 
+f) the Arkenstone of Thráin <+3>
+ Found lying on the floor in a vault at 3100 feet (level 62)
+ 
+ Provides resistance to light, dark.
+ Cannot be harmed by fire.
+ Sustains your life force.  Grants the ability to see invisible
+ things.  
+ Radius 3 light.
+ 
+ When activated, it maps the entire level and detects nearby
+ objects, traps, doors, and stairs.
+ Takes 183 to 360 turns to recharge at your current speed.
+ Your chance of success is 96.7%
+ 
+g) the Full Plate Armour of Isildur [75,+18] <+1>
+ Found lying on the floor in a pit at 4650 feet (level 93)
+ 
+ +1 constitution.
+ Provides resistance to acid, lightning, fire, frost, sound, nexus.
+ Provides protection from confusion.
+ Cannot be harmed by acid.
+ 
+h) the Elven Cloak of Lúthien [6,+20] <+4, +3, +2>
+ Found lying on the floor in a vault at 4850 feet (level 97)
+ 
+ +4 intelligence.
+ +4 wisdom.
+ +3 stealth.
+ +2 speed.
+ Provides resistance to acid, fire, frost.
+ Cannot be harmed by acid, fire.
+ 
+ When activated, it restores your experience to full.
+ Takes 900 turns to recharge at your current speed.
+ Your chance of success is 97.4%
+ 
+i) the Small Metal Shield of Thorin [5,+23] <+3, +4, -1>
+ Found lying on the floor in a vault at 3100 feet (level 62)
+ 
+ +3 strength.
+ +4 constitution.
+ -1 stealth.
+ Provides immunity to acid.
+ Provides resistance to sound, chaos.
+ Provides protection from fear.
+ Cannot be harmed by acid.
+ Prevents paralysis.  
+ 
+j) the Iron Helm of Dor-Lómin [7,+18] <+4, +2, -1>
+ Found lying on the floor in a vault at 4900 feet (level 98)
+ 
+ +4 strength.
+ +2 dexterity.
+ +4 constitution.
+ -1 stealth.
+ Provides resistance to acid, lightning, fire, frost.
+ Provides protection from fear.
+ Cannot be harmed by acid.
+ Grants telepathy.  Grants the ability to see invisible things.  
+ 
+k) the Set of Leather Gloves 'Cammithrim' (+5,+5) [1,+12] <+1>
+ Dropped by Lagduf, the Snaga at 450 feet (level 9)
+ 
+ Provides resistance to light.
+ Cannot be harmed by acid, fire.
+ Sustains constitution.
+ Prevents paralysis.  
+ Radius 1 light.
+ 
+ When activated, it fires a magic missile with damage 3d4.
+ Takes 7 turns to recharge at your current speed.
+ Your chance of success is 99.0%
+ 
+l) a Pair of Leather Boots of Elvenkind [2,+13] <+2, +9>
+ Found lying on the floor in a vault at 4900 feet (level 98)
+ 
+ +2 stealth.
+ +9 speed.
+ Cannot be harmed by acid, fire.
+ Feather Falling.  
+ 
+
+
+
+
+  [Character Inventory]
+
+a) a Book of Magic Spells [Magic for Beginners]
+b) a Book of Magic Spells [Conjurings and Tricks]
+c) a Book of Magic Spells [Incantations and Illusions]
+d) a Book of Magic Spells [Sorcery and Evocations]
+e) 2 Books of Magic Spells [Resistances of Scarabtarices]
+ Cannot be harmed by fire.
+ 
+f) 2 Books of Magic Spells [Raal's Tome of Destruction]
+ Cannot be harmed by fire.
+ 
+g) 3 Books of Magic Spells [Mordenkainen's Escapes]
+ Cannot be harmed by fire.
+ 
+h) 3 Books of Magic Spells [Tenser's Transformations]
+ Cannot be harmed by fire.
+ 
+i) 2 Books of Magic Spells [Kelek's Grimoire of Power]
+ Cannot be harmed by fire.
+ 
+j) 36 Potions of Cure Critical Wounds
+k) 13 Potions of Healing
+l) 40 Potions of Restore Mana
+m) 8 Potions of Enlightenment
+n) 10 Rods of Probing
+o) 15 Wands of Dragon's Flame (5 charges)
+ Cannot be harmed by lightning.
+ 
+p) 35 Wands of Drain Life (103 charges)
+q) 4 Staves of Healing (1 charge)
+r) 11 Staves of the Magi (22 charges)
+s) a Ring of Speed <+19>
+ Found lying on the floor in a pit at 4800 feet (level 96)
+ 
+ +19 speed.
+ 
+t) a Fur Cloak of the Magi [3,+12] <+2, +3>
+ Dropped by a Mature green dragon at 2800 feet (level 56)
+ 
+ +2 intelligence.
+ +3 stealth.
+ Provides protection from blindness.
+ Cannot be harmed by acid.
+ Sustains intelligence.
+ 
+u) a Mace of Disruption of Extra Attacks (5d8) (+17,+17) <+2>
+ Found lying on the floor in a vault at 4900 feet (level 98)
+ 
+ +2 attack speed.
+ Slays undead.
+ 
+ Combat info:
+ 6.0 blows/round.
+ Average damage/round: 781.2 vs. undead, and 443.4 vs. others.
+ 
+v) a Heavy Crossbow of Extra Shots (x4) (+15,+21) <+1>
+ Found lying on the floor at 4800 feet (level 96)
+ 
+ +1 shooting speed.
+ 
+
+
+
+
+  [Character Quiver]
+
+0) 14 Seeker Bolts of Holy Might (4d5) (+19,+25)
+ Slays undead, demons, evil creatures.
+ Cannot be harmed by acid.
+ 
+ Combat info:
+ Hits targets up to 120 feet away.
+ Average damage/round: 324.3 vs. creatures not resistant to fire,
+ 324.3 vs. undead, 324.3 vs. demons, 270.3 vs. evil creatures, and
+ 162.2 vs. others.
+ 25% chance of breaking upon contact.
+ 
+1) 26 Seeker Arrows of Holy Might (4d4) (+25,+19)
+ Slays undead, demons, evil creatures.
+ Cannot be harmed by acid, fire.
+ 
+
+
+  [Home Inventory]
+
+a) 16 Mushrooms of Vigor
+b) 40 Potions of Healing
+c) 15 Potions of *Healing*
+ It can be thrown at creatures with damaging effect.
+ 
+d) 11 Potions of Life
+ It can be thrown at creatures with damaging effect.
+ 
+e) 14 Scrolls of Mass Banishment
+f) 14 Scrolls of *Destruction*
+g) 11 Wands of Annihilation (26 charges)
+ Cannot be harmed by lightning.
+ 
+h) a Ring of Speed <+14>
+ Found lying on the floor in a vault at 4900 feet (level 98)
+ 
+ +14 speed.
+ 
+i) an Amulet of the Magi [+8] <+4>
+ Found lying on the floor at 4900 feet (level 98)
+ 
+ +4 intelligence.
+ +4 searching skill.
+ Provides protection from blindness.
+ Sustains intelligence.
+ Prevents paralysis.  Grants the ability to see invisible things.  
+ 
+j) the Pendant of Ingwë <+3, +4>
+ Dropped by Akhorahil the Blind at 3400 feet (level 68)
+ 
+ +3 intelligence.
+ +3 wisdom.
+ +4 infravision.
+ Provides resistance to acid, lightning, frost.
+ Provides protection from confusion.
+ Prevents paralysis.  Grants the ability to see invisible things.  
+ 
+ When activated, it deals five times your level's damage to all
+ evil creatures that you can see.
+ Takes 183 to 360 turns to recharge at your current speed.
+ Your chance of success is 95.4%
+ 
+k) the Necklace of the Dwarves <+3, +5, +1>
+ Found lying on the floor in a vault at 4250 feet (level 85)
+ 
+ +3 strength.
+ +3 constitution.
+ +5 infravision.
+ Provides protection from fear.
+ Speeds regeneration.  Prevents paralysis.  Grants the ability to
+ see invisible things.  
+ Radius 1 light.
+ 
+l) the Jewel 'Evenstar' <+2>
+ Found lying on the floor in a vault at 2200 feet (level 44)
+ 
+ +2 wisdom.
+ Provides resistance to frost, dark, nether.
+ Sustains wisdom, constitution.
+ Speeds regeneration.  Sustains your life force.  
+ 
+ When activated, it restores your experience to full.
+ Takes 540 turns to recharge at your current speed.
+ Your chance of success is 97.4%
+ 
+m) the Adamantite Plate Mail 'Soulkeeper' (-4) [90,+20] <+2>
+ Found lying on the floor in a vault at 4250 feet (level 85)
+ 
+ +2 constitution.
+ Provides resistance to acid, frost, dark, nexus, nether, chaos.
+ Provides protection from fear.
+ Cannot be harmed by acid.
+ Sustains constitution.
+ Sustains your life force.  
+ 
+ When activated, it heals 1000 hit points.
+ Takes 1598 turns to recharge at your current speed.
+ Your chance of success is 94.4%
+ 
+n) a Robe of Permanence [2,+37]
+ Found lying on the floor in a vault at 4900 feet (level 98)
+ 
+ Provides resistance to acid, lightning, fire, frost, shards.
+ Cannot be harmed by acid, fire.
+ Sustains strength, intelligence, wisdom, dexterity, constitution.
+ Sustains your life force.  
+ 
+o) the Hard Leather Armour of Himring [20,+15]
+ Dropped by Uldor the Accursed at 1600 feet (level 32)
+ 
+ Provides resistance to poison gas, nether, chaos.
+ Cannot be harmed by acid, fire.
+ 
+ When activated, it grants you protection from evil for 1d25 plus 3
+ times your character level turns.
+ Takes 363 to 720 turns to recharge at your current speed.
+ Your chance of success is 96.7%
+ 
+p) an Elven Cloak of Aman [6,+29] <+4, +1>
+ Dropped by Adunaphel the Quiet at 2800 feet (level 56)
+ 
+ +4 stealth.
+ +1 speed.
+ Provides resistance to poison gas.
+ Cannot be harmed by acid, fire.
+ 
+q) the Ethereal Cloak of Tuor [6,+12] <+4>
+ Found lying on the floor in a vault at 4850 feet (level 97)
+ 
+ +4 dexterity.
+ +4 stealth.
+ Provides immunity to acid.
+ Cannot be harmed by acid, fire.
+ Prevents paralysis.  Grants the ability to see invisible things.  
+ 
+r) the Large Metal Shield of Anárion [12,+20]
+ Found lying on the floor in a vault at 3100 feet (level 62)
+ 
+ Provides resistance to acid, lightning, fire, frost.
+ Cannot be harmed by acid.
+ Sustains strength, intelligence, wisdom, dexterity, constitution.
+ 
+s) the Hard Leather Cap of Thranduil [2,+11] <+2>
+ Dropped by Shagrat, the Orc Captain at 2150 feet (level 43)
+ 
+ +2 intelligence.
+ +2 wisdom.
+ Provides protection from blindness.
+ Cannot be harmed by acid.
+ Grants telepathy.  
+ 
+t) a Blade of Chaos of Gondolin (6d5) (+21,+16) <+1>
+ Found lying on the floor at 4800 feet (level 96)
+ 
+ Slays dragons, trolls, orcs, demons.
+ Provides resistance to dark, chaos.
+ Cannot be harmed by acid.
+ Prevents paralysis.  Grants the ability to see invisible things.  
+ Radius 1 light.
+ 
+ Combat info:
+ 4.0 blows/round.
+ Average damage/round: 416.4 vs. dragons, 416.4 vs. trolls, 416.4
+ vs. orcs, 416.4 vs. demons, and 252 vs. others.
+ 
+u) the Lucerne Hammer 'Turmil' (2d5) (+11,+12) [+8] <+4, +1>
+ Dropped by Rogrog the Black Troll at 2050 feet (level 41)
+ 
+ +4 wisdom.
+ +4 infravision.
+ Slays orcs.
+ Branded with cold.
+ Provides immunity to frost.
+ Provides resistance to light.
+ Cannot be harmed by acid, fire.
+ Blessed by the gods.  Speeds regeneration.  
+ Radius 1 light.
+ 
+ When activated, it drains up to 90 hit points of life from a
+ target creature.  Does not affect undead, demons, golems,
+ elementals or vortices.
+ Takes 144 turns to recharge at your current speed.
+ Your chance of success is 98.7%
+ 
+ Combat info:
+ 4.0 blows/round.
+ Average damage/round: 230 vs. creatures not resistant to cold, 230
+ vs. orcs, and 176.8 vs. others.
+ 
+v) the Short Bow of Amras (x3) (+12,+15) <+2, +1>
+ Found lying on the floor of a special room at 1900 feet (level 38)
+ 
+ +2 intelligence.
+ +2 wisdom.
+ +2 dexterity.
+ +1 speed.
+ +1 shooting speed.
+ +1 shooting power.
+ Provides resistance to lightning, fire, frost.
+ Cannot be harmed by acid, fire.
+ Slows your metabolism.  
+ 
+w) the Short Bow of Amrod (x4) (+12,+15) <+2>
+ Conjured forth by magic at 3100 feet (level 62)
+ 
+ +2 strength.
+ +2 constitution.
+ +2 shooting power.
+ Provides resistance to lightning, fire, frost.
+ Cannot be harmed by acid, fire.
+ Speeds regeneration.  
+ 
+x) a Light Crossbow of the Haradrim (x4) (+20,+20) <+1>
+ Found lying on the floor in a vault at 4900 feet (level 98)
+ 
+ +1 shooting speed.
+ +1 shooting power.
+ Cannot be harmed by acid, fire.
+ 
+
+
+[Player history]
+      Turn   Depth  Note
+         0      0'  Began the quest to destroy Morgoth.
+       925     50'  Reached level 2
+      2551    100'  Reached level 3
+      4559    100'  Reached level 4
+      5666    100'  Killed Fang, Farmer Maggot's dog
+      6010    100'  Reached level 5
+      8620    100'  Killed Grip, Farmer Maggot's dog
+      8620    100'  Reached level 6
+     10841    200'  Reached level 7
+     13026    200'  Reached level 8
+     15532    250'  Reached level 9
+     19874    200'  Reached level 10
+     22506    350'  Killed Mughash the Kobold Lord
+     23379    350'  Reached level 11
+     27078    400'  Reached level 12
+     29158    450'  Killed Brodda, the Easterling
+     31036    450'  Reached level 13
+     34312    500'  Killed Bullroarer the Hobbit
+     35729    500'  Reached level 14
+     38394    450'  Killed Lagduf, the Snaga
+     38513    450'  Found the Set of Leather Gloves 'Cammithrim'
+     40757    450'  Reached level 15
+     42074    500'  Found the Phial of Galadriel (LOST)
+     45199    500'  Reached level 16
+     47483    600'  Killed Orfax, Son of Boldor
+     48825    650'  Reached level 17
+     50372    650'  Killed Grishnákh, the Hill Orc
+     50683    650'  Killed Golfimbul, the Hill Orc Chief
+     52024    700'  Killed Wormtongue, Agent of Saruman
+     52486    700'  Reached level 18
+     57568    850'  Reached level 19
+     58773    850'  Killed Boldor, King of the Yeeks
+     59851    850'  Reached level 20
+     62412    950'  Killed Ufthak of Cirith Ungol
+     63457    950'  Reached level 21
+     65761      0'  Killed Farmer Maggot
+     67838   1000'  Reached level 22
+     71148   1100'  Reached level 23
+     72475   1100'  Killed Gorbag, the Orc Captain
+     73457   1150'  Reached level 24
+     74080   1150'  Killed Bolg, Son of Azog
+     74085   1150'  Found the Dagger 'Narthanc' (LOST)
+     74170   1150'  Killed Azog, King of the Uruk-Hai
+     76053   1150'  Killed Lugdush, the Uruk
+     76209   1150'  Killed Uglúk, the Uruk
+     76209   1150'  Reached level 25
+     76218   1150'  Found the Set of Gauntlets 'Paurhach' (LOST)
+     79441   1250'  Killed Angamaitë of Umbar
+     81133   1250'  Killed Sangahyando of Umbar
+     82966   1300'  Killed Ulfast, Son of Ulfang
+     84076   1350'  Killed Ibun, Son of Mîm
+     84887   1350'  Reached level 26
+     92723   1600'  Killed Khîm, Son of Mîm
+     93278   1600'  Killed Sméagol
+     93640   1600'  Reached level 27
+     99422   1650'  Reached level 28
+    103493   1600'  Reached level 28
+    103516   1600'  Killed Uldor the Accursed
+    103534   1600'  Found the Hard Leather Armour of Himring
+    108769   1650'  Found the Metal Cap of Thengel (LOST)
+    109224   1650'  Reached level 29
+    109337   1650'  Killed Nár, the Dwarf
+    111025   1700'  Found the Spear 'Nimloth' (LOST)
+    118594   1850'  Reached level 30
+    118806   1850'  Found the Rapier 'Forasgil' (LOST)
+    119832   1900'  Found the Broad Axe 'Barukkheled' (LOST)
+    122135   1900'  Found the Short Bow of Amras
+    122887   1950'  Found the Halberd 'Osondir' (LOST)
+    123055   1950'  Killed Draebor, the Imp
+    123061   1950'  Found the Broad Sword 'Aranrúth' (LOST)
+    125152   2050'  Found the Scimitar 'Haradekket' (LOST)
+    127003   2050'  Killed Lokkak, the Ogre Chieftain
+    127806   2050'  Found the Scythe 'Avavir' (LOST)
+    128048   2050'  Killed Uvatha the Horseman
+    128048   2050'  Reached level 31
+    129595   2050'  Killed Rogrog the Black Troll
+    129605   2050'  Found the Lucerne Hammer 'Turmil'
+    130318   2100'  Killed Bert the Stone Troll
+    130329   2100'  Found the Long Sword 'Elvagil' (LOST)
+    130728   2100'  Killed Tom the Stone Troll
+    140374   2200'  Killed Medusa, the Gorgon
+    140935   2200'  Found the Jewel 'Evenstar'
+    144058   2300'  Reached level 34
+    147201   2550'  Found the Serpent Ring of Barahir (LOST)
+    147341   2550'  Killed Waldern, King of Water
+    147836   2550'  Killed Smaug the Golden
+    147846   2550'  Found the Broad Sword 'Glamdring' (LOST)
+    148932   2800'  Killed Adunaphel the Quiet
+    148939   2800'  Found the Lochaber Axe 'Mundwine' (LOST)
+    153017   2950'  Killed Harowen the Black Hand
+    153024   2950'  Found the Rapier 'Careth Asdriag' (LOST)
+    153889   2950'  Killed The Queen Ant
+    154475   3000'  Killed Scatha the Worm
+    154840   3000'  Reached level 35
+    155415   3000'  Killed Lorgan, Chief of the Easterlings
+    156569   3050'  Found the Chain Mail of Arvedui (LOST)
+    157808      0'  Reached level 35
+    158220   3100'  Missed the Cloak 'Holcolleth' (LOST)
+    159337   3100'  Found the Short Bow of Amrod
+    159544   3100'  Found the Leather Scale Mail 'Thalkettoth' (LOST)
+    159749   3100'  Found the Arkenstone of Thráin
+    161393   3100'  Killed Shelob, Spider of Darkness
+    161716   3100'  Found the Small Metal Shield of Thorin
+    161811   3100'  Found the Large Metal Shield of Anárion
+    163612   3250'  Killed Beorn, the Shape-Changer
+    164481   3400'  Killed Akhorahil the Blind
+    164485   3400'  Found the Pendant of Ingwë
+    165358   3400'  Reached level 36
+    168601   3450'  Found the Morning Star 'Bloodspike' (LOST)
+    173535   3550'  Killed Ar-Pharazôn the Golden
+    173535   3550'  Reached level 37
+    175003   3550'  Found the Leather Shield of the Haradrim (LOST)
+    178406   3900'  Reached level 38
+    181345   4200'  Killed Ji Indur Dawndeath
+    181361   4200'  Found the Beaked Axe of Théoden (LOST)
+    182240   4200'  Found the Mattock of Náin (LOST)
+    184223   4250'  Found the Adamantite Plate Mail 'Soulkeeper'
+    184325   4250'  Found the Necklace of the Dwarves
+    186278   4300'  Killed Gorlim, Betrayer of Barahir
+    187525   4450'  Reached level 39
+    191676   4600'  Killed Baphomet the Minotaur Lord
+    193123   4600'  Killed Thuringwethil, the Vampire Messenger
+    195723   4650'  Reached level 40
+    196424   4650'  Found the Full Plate Armour of Isildur
+    197974   4750'  Killed Fundin Bluecloak
+    197987   4750'  Found the Executioner's Sword 'Crisdurian' (LOST)
+    199307   4800'  Killed Ren the Unclean
+    201553   4800'  Killed Kavlax the Many-Headed
+    202120   4800'  Killed Saruman of Many Colours
+    203272   4850'  Found the Leather Shield of Celegorm (LOST)
+    203807   4850'  Found the Battle Axe 'Lotharang' (LOST)
+    205659   4900'  Reached level 41
+    211327   4850'  Found the Quarterstaff 'Eriril' (LOST)
+    211341   4850'  Found the Beaked Axe of Húrin (LOST)
+    216222   4750'  Found the Battle Axe of Balli Stonehand (LOST)
+    216706   4750'  Found the Light Crossbow 'Cubragol'
+    220597   4850'  Reached level 42
+    227375   4900'  Killed Quaker, Master of Earth
+    230146   4900'  Found the Iron Helm of Dor-Lómin
+    232860   4850'  Killed Draugluin, Sire of All Werewolves
+    234302   4900'  Killed Dwar, Dog Lord of Waw
+    234645   4900'  Reached level 43
+    238120   4850'  Killed The Cat Lord
+    239282   4850'  Found the Ring of Fire 'Narya'
+    241672   4900'  Killed Itangast the Fire Drake
+    241676   4900'  Found the Glaive of Pain (LOST)
+    242571   4850'  Killed The Balrog of Moria
+    243041   4850'  Killed Lungorthin, the Balrog of White Fire
+    243556   4850'  Killed Hoarmurath of Dir
+    244155      0'  -- Note: making progress in killing uniques
+    246485   4850'  Reached level 44
+    246607   4850'  Killed Gothmog, the High Captain of Balrogs
+    252980   4900'  Killed The Phoenix
+    253423   4900'  Killed The Witch-King of Angmar
+    253533   4900'  Killed Khamûl, the Black Easterling
+    253533   4900'  Reached level 45
+    255665   4850'  Reached level 46
+    256467   4800'  Killed Polyphemus, the Blind Cyclops
+    257841   4850'  Found the Ethereal Cloak of Tuor
+    258670   4850'  Found the Ring of Adamant 'Nenya'
+    259399   4850'  Killed Mîm, Betrayer of Turin
+    261874   4850'  Reached level 47
+    265324   4900'  Killed Vargo, Tyrant of Fire
+    273312   4900'  Found the Whip of Gothmog (LOST)
+    275783   4900'  Killed Feagwath, the Undead Sorcerer
+    276852   4900'  Killed Tselakus, the Dreadlord
+    277298   4900'  Reached level 48
+    277886   4900'  Killed Radagast the Brown
+    278747   4900'  Killed Maeglin, the Traitor of Gondolin
+    279815   4900'  Killed Glaurung, Father of the Dragons
+    281411   4850'  Killed Cantoras, the Skeletal Lord
+    282200   4850'  Killed Ungoliant, the Unlight
+    282721   4800'  Killed Atlas, the Titan
+    283139   4750'  Killed Ariel, Queen of Air
+    287357   4850'  Killed Eöl, the Dark Elf
+    288280   4850'  Killed Ancalagon the Black
+    288280   4850'  Reached level 49
+    288847   4850'  Found the Elven Cloak of Lúthien
+
+
+  [Options]
+
+  [User interface]
+
+Use the roguelike command keyset             : no  (rogue_like_commands)
+Use sound                                    : no  (use_sound)
+Show damage player deals to monsters         : no  (show_damage)
+Use old target by default                    : no  (use_old_target)
+Always pickup items                          : no  (pickup_always)
+Always pickup items matching inventory       : yes (pickup_inven)
+Show flavors in object descriptions          : no  (show_flavors)
+Highlight target with cursor                 : yes (show_target)
+Disturb whenever viewable monster moves      : yes (disturb_near)
+Show walls as solid blocks                   : no  (solid_walls)
+Show walls with shaded background            : no  (hybrid_walls)
+Color: Illuminate torchlight in yellow       : no  (view_yellow_light)
+Color: Shimmer multi-colored things          : no  (animate_flicker)
+Center map continuously                      : no  (center_player)
+Color: Show unique monsters in purple        : no  (purple_uniques)
+Automatically clear '-more-' prompts         : no  (auto_more)
+Color: Player color indicates % hit points   : yes (hp_changes_color)
+Allow mouse clicks to move the player        : yes (mouse_movement)
+Notify on object recharge                    : no  (notify_recharge)
+
+  [Birth]
+
+Randomise the artifacts (except a very few)  : no  (birth_randarts)
+Word of Recall has no effect                 : no  (birth_no_recall)
+Restrict creation of artifacts               : no  (birth_no_artifacts)
+Don't stack objects on the floor             : no  (birth_no_stacking)
+Lose artifacts when leaving level            : no  (birth_no_preserve)
+Don't generate connected stairs              : no  (birth_no_stairs)
+Don't show level feelings                    : no  (birth_no_feelings)
+Increase gold drops but disable selling      : yes (birth_no_selling)
+Use previous set of randarts                 : yes (birth_keep_randarts)
+Start with a kit of useful gear              : yes (birth_start_kit)
+Monsters learn from their mistakes           : no  (birth_ai_learn)
+Force player descent                         : no  (birth_force_descend)
+
