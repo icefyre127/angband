@@ -4341,7 +4341,7 @@ flags:NO_SLEEP
 spells:DRAIN_MANA | BLIND | HOLD
 
 name:327:Death watch beetle
-counts:22:0:6:0:1:0:0
+counts:23:0:7:0:1:0:0
 blow:BITE:HURT:0+5d6M0:8:0
 blow:BITE:HURT:0+5d6M0:6:1
 blow:WAIL:TERRIFY:0+5d6M0:4:2
@@ -4917,7 +4917,7 @@ flags:HURT_COLD | IM_FIRE | IM_COLD | IM_POIS
 spells:BR_WALL
 
 name:369:Dread
-counts:468:0:39:54:255:0:15
+counts:477:0:39:55:255:0:16
 blow:HIT:HURT:0+6d6M0:10:0
 blow:HIT:HURT:0+6d6M0:7:1
 blow:HIT:LOSE_STR:0+3d4M0:6:2
@@ -6747,7 +6747,7 @@ flags:NO_SLEEP
 spells:BR_ELEC | SCARE | BLIND | CONF
 
 name:490:Baphomet the Minotaur Lord
-counts:13:0:1:4:125:3:2
+counts:13:0:2:5:125:4:2
 blow:HIT:HURT:0+10d10M0:1:2
 flags:UNIQUE | QUESTOR | MALE | FEMALE | CHAR_CLEAR | ATTR_RAND | ATTR_CLEAR
 flags:ATTR_MULTI | FORCE_DEPTH | UNAWARE | FORCE_SLEEP | FORCE_EXTRA
@@ -7189,7 +7189,7 @@ spells:BO_ICEE | SCARE | BLIND | HASTE | HEAL | TPORT | TELE_AWAY | TRAPS
 spells:FORGET | S_MONSTERS | S_ANIMAL | S_DEMON | S_UNDEAD | S_HI_DRAGON
 
 name:515:Dreadlord
-counts:100:0:3:4:101:0:14
+counts:102:0:3:5:107:0:15
 blow:HIT:EXP_40:0+6d6M0:2:0
 blow:HIT:EXP_40:0+6d6M0:4:1
 blow:HIT:LOSE_STR:0+4d6M0:4:2
@@ -8171,7 +8171,7 @@ flags:METAL | NONLIVING | IM_COLD | IM_POIS | NO_CONF | NO_SLEEP
 spells:BR_POIS | SCARE | BLIND | CONF
 
 name:578:Great Bile Wyrm
-counts:45:0:8:2:111:0:18
+counts:49:0:8:2:119:0:18
 blow:CLAW:HURT:0+4d12M0:17:0
 blow:CLAW:HURT:0+4d12M0:14:1
 blow:BITE:ACID:0+6d14M0:12:2
