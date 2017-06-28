@@ -953,7 +953,7 @@ flags:DEMON | UNDEAD | EVIL | ANIMAL | METAL | NONLIVING | HURT_FIRE
 flags:IM_ACID | IM_FIRE | IM_COLD | IM_POIS | NO_FEAR
 
 name:80:Green glutton ghost
-counts:104:0:30:24:148:0:0
+counts:105:0:30:24:148:0:0
 blow:TOUCH:EAT_FOOD:0+1d1M0:1:0
 flags:UNIQUE | QUESTOR | MALE | FEMALE | FORCE_DEPTH | GROUP_AI | NEVER_BLOW
 flags:NEVER_MOVE | RAND_25 | RAND_50 | ONLY_GOLD | ONLY_ITEM | DROP_40
@@ -1226,7 +1226,7 @@ flags:UNDEAD | EVIL | ANIMAL | METAL | NONLIVING | HURT_FIRE | HURT_COLD
 flags:IM_ACID | IM_ELEC | IM_FIRE | IM_COLD
 
 name:105:Green icky thing
-counts:78:0:19:1:3:0:0
+counts:80:0:19:1:3:0:0
 blow:TOUCH:ACID:0+2d5M0:1:0
 flags:UNIQUE | QUESTOR | MALE | FEMALE | FORCE_DEPTH | GROUP_AI | NEVER_BLOW
 flags:NEVER_MOVE | RAND_50 | ONLY_GOLD | ONLY_ITEM | DROP_40 | DROP_60
@@ -1826,7 +1826,7 @@ flags:DEMON | UNDEAD | EVIL | ANIMAL | METAL | NONLIVING | HURT_FIRE
 flags:IM_ACID | IM_ELEC | IM_FIRE | IM_COLD | IM_POIS
 
 name:151:Baby multi-hued dragon
-counts:262:0:32:12:255:2:0
+counts:266:0:32:12:255:2:0
 blow:CLAW:HURT:0+1d4M0:4:0
 blow:CLAW:HURT:0+1d4M0:5:1
 blow:BITE:HURT:0+1d6M0:6:2
@@ -1947,7 +1947,7 @@ flags:DEMON | UNDEAD | EVIL | ANIMAL | METAL | NONLIVING | HURT_FIRE
 flags:HURT_COLD | IM_ACID | IM_FIRE | IM_COLD
 
 name:160:Master yeek
-counts:251:0:39:22:238:0:44
+counts:252:0:39:22:240:0:44
 blow:HIT:HURT:0+1d8M0:31:0
 flags:UNIQUE | QUESTOR | MALE | FEMALE | FORCE_DEPTH | GROUP_AI | NEVER_BLOW
 flags:NEVER_MOVE | ONLY_GOLD | ONLY_ITEM | DROP_40 | DROP_60 | DROP_1
@@ -2458,7 +2458,7 @@ flags:IM_PLASMA | IM_NEXUS | IM_DISEN | NO_FEAR | NO_STUN | NO_CONF
 flags:NO_SLEEP
 
 name:196:Giant tarantula
-counts:10:0:8:1:4:0:0
+counts:12:0:8:1:4:0:0
 blow:BITE:POISON:0+1d6M0:4:0
 blow:BITE:POISON:0+1d6M0:2:1
 blow:BITE:POISON:0+1d6M0:2:2
@@ -2500,7 +2500,7 @@ flags:HURT_ROCK | HURT_FIRE | HURT_COLD | IM_ACID | IM_ELEC | IM_FIRE
 flags:IM_COLD | IM_POIS
 
 name:199:Frost giant
-counts:169:0:44:9:255:0:0
+counts:174:0:44:9:255:0:0
 blow:HIT:COLD:0+5d8M0:7:0
 blow:HIT:COLD:0+5d8M0:4:1
 flags:UNIQUE | QUESTOR | MALE | FEMALE | FORCE_DEPTH | GROUP_AI | NEVER_BLOW
@@ -2701,7 +2701,7 @@ flags:IM_ACID | IM_ELEC | IM_FIRE | IM_COLD | IM_POIS
 spells:CONF | BLINK | TELE_TO | TELE_LEVEL
 
 name:214:Forest troll
-counts:1128:0:225:45:255:0:0
+counts:1149:0:225:45:255:0:0
 blow:HIT:HURT:0+1d4M0:241:0
 blow:HIT:HURT:0+1d4M0:238:1
 blow:BITE:HURT:0+1d6M0:236:2
@@ -2809,7 +2809,7 @@ flags:HURT_COLD | IM_ACID | IM_FIRE | IM_COLD | IM_POIS | IM_PLASMA
 spells:BR_FIRE
 
 name:222:Cold hound
-counts:791:0:148:0:0:54:0
+counts:818:0:148:0:0:54:0
 blow:CLAW:HURT:0+3d3M0:7:0
 blow:CLAW:HURT:0+3d3M0:9:1
 blow:BITE:COLD:0+2d6M0:5:2
@@ -3325,7 +3325,7 @@ flags:HURT_FIRE | IM_ACID | IM_FIRE | IM_COLD | IM_POIS | NO_STUN | NO_CONF
 flags:NO_SLEEP
 
 name:257:Killer stag beetle
-counts:111:0:26:1:32:0:0
+counts:112:0:26:1:32:0:0
 blow:CLAW:HURT:0+3d6M0:2:0
 blow:CLAW:HURT:0+3d6M0:2:1
 flags:UNIQUE | QUESTOR | MALE | FEMALE | FORCE_DEPTH | GROUP_AI | NEVER_BLOW
@@ -3356,7 +3356,7 @@ flags:NO_SLEEP
 spells:SLOW
 
 name:259:Giant yellow scorpion
-counts:115:0:37:0:27:0:0
+counts:117:0:37:0:29:0:0
 blow:BITE:HURT:0+1d8M0:12:0
 blow:STING:POISON:0+2d5M0:5:1
 flags:UNIQUE | QUESTOR | MALE | FEMALE | CHAR_CLEAR | ATTR_RAND | ATTR_CLEAR
@@ -3488,7 +3488,7 @@ flags:ANIMAL | METAL | NONLIVING | IM_ACID | IM_ELEC | IM_FIRE
 spells:SLOW
 
 name:270:4-headed hydra
-counts:99:0:23:2:180:0:35
+counts:102:0:24:2:186:0:35
 blow:BITE:HURT:0+2d6M0:42:0
 blow:BITE:HURT:0+2d6M0:36:1
 blow:BITE:HURT:0+2d6M0:35:2
@@ -4492,7 +4492,7 @@ flags:DEMON | UNDEAD | EVIL | ANIMAL | METAL | NONLIVING
 spells:S_ANIMAL
 
 name:337:Barrow wight
-counts:231:0:33:2:255:0:0
+counts:235:0:33:2:255:0:0
 blow:HIT:HURT:0+1d8M0:1:0
 flags:UNIQUE | QUESTOR | MALE | FEMALE | FORCE_DEPTH | GROUP_AI | NEVER_BLOW
 flags:NEVER_MOVE | ONLY_GOLD | ONLY_ITEM | DROP_40 | DROP_60 | DROP_1
@@ -4905,7 +4905,7 @@ flags:HURT_COLD | IM_ACID | IM_FIRE | IM_COLD
 spells:BR_INER
 
 name:368:Impact hound
-counts:113:0:24:0:0:14:0
+counts:128:0:24:0:0:17:0
 blow:CLAW:HURT:0+2d8M0:1:0
 blow:BITE:HURT:0+2d8M0:1:2
 blow:BITE:HURT:0+2d8M0:1:3
@@ -4953,7 +4953,7 @@ flags:METAL | NONLIVING | IM_COLD | IM_POIS | IM_NETHER | NO_FEAR | NO_CONF
 flags:NO_SLEEP
 
 name:371:Smoke elemental
-counts:9:0:3:0:3:0:0
+counts:10:0:3:0:3:0:0
 blow:ENGULF:HURT:0+2d6M0:1:0
 flags:UNIQUE | QUESTOR | MALE | FEMALE | FORCE_DEPTH | GROUP_AI | NEVER_BLOW
 flags:NEVER_MOVE | ONLY_GOLD | ONLY_ITEM | DROP_40 | DROP_60 | DROP_1
@@ -5027,7 +5027,7 @@ flags:NO_SLEEP
 spells:BR_COLD | SCARE
 
 name:376:Xorn
-counts:11:0:5:0:0:0:0
+counts:13:0:5:0:0:0:0
 blow:HIT:HURT:0+1d6M0:2:0
 blow:HIT:HURT:0+1d6M0:2:1
 blow:HIT:HURT:0+1d6M0:3:2
@@ -5090,7 +5090,7 @@ flags:NO_SLEEP
 spells:CAUSE_3 | SCARE | HOLD | DARKNESS
 
 name:380:Young multi-hued dragon
-counts:270:0:21:8:255:6:0
+counts:271:0:21:8:255:6:0
 blow:CLAW:HURT:0+2d6M0:3:0
 blow:CLAW:HURT:0+2d6M0:1:1
 blow:BITE:HURT:0+3d8M0:2:2
@@ -5174,7 +5174,7 @@ flags:HURT_COLD | IM_ACID | IM_FIRE | IM_COLD | IM_POIS
 spells:BR_POIS | SCARE
 
 name:387:Young red dragon
-counts:218:0:31:3:255:6:3
+counts:219:0:32:3:255:6:3
 blow:CLAW:HURT:0+2d6M0:1:0
 blow:CLAW:HURT:0+2d6M0:1:1
 blow:BITE:HURT:0+2d8M0:1:2
@@ -5441,7 +5441,7 @@ flags:IM_POIS
 spells:SCARE
 
 name:406:Mature multi-hued dragon
-counts:119:0:17:5:255:4:0
+counts:120:0:17:5:255:4:0
 blow:CLAW:HURT:0+2d12M0:6:0
 blow:CLAW:HURT:0+2d12M0:4:1
 blow:BITE:HURT:0+4d12M0:9:2
@@ -5788,7 +5788,7 @@ flags:IM_FIRE | IM_COLD | NO_CONF | NO_SLEEP
 spells:BR_ACID | BLIND | CONF
 
 name:430:Disenchanter worm mass
-counts:25:0:8:0:1:0:0
+counts:27:0:8:0:1:0:0
 flags:UNIQUE | QUESTOR | MALE | FEMALE | FORCE_DEPTH | GROUP_AI | NEVER_MOVE
 flags:RAND_50 | ONLY_GOLD | ONLY_ITEM | DROP_40 | DROP_60 | DROP_1
 flags:DROP_2 | DROP_3 | DROP_4 | DROP_GOOD | DROP_GREAT | DROP_20 | STUPID
@@ -5870,7 +5870,7 @@ flags:DEMON | UNDEAD | EVIL | ANIMAL | METAL | NONLIVING | IM_COLD
 spells:BLIND | S_DRAGON
 
 name:436:Knight Templar
-counts:87:0:15:11:161:0:18
+counts:90:0:15:11:163:0:18
 blow:HIT:HURT:0+5d5M0:11:0
 blow:HIT:HURT:0+5d5M0:10:1
 blow:HIT:HURT:0+5d5M0:9:2
@@ -5994,7 +5994,7 @@ flags:NO_SLEEP
 spells:BR_NETH | SCARE | CONF | SLOW | DARKNESS
 
 name:444:Ancient red dragon
-counts:164:0:14:6:255:2:1
+counts:166:0:14:6:255:2:1
 blow:CLAW:HURT:0+4d9M0:22:0
 blow:CLAW:HURT:0+4d9M0:20:1
 blow:BITE:FIRE:0+7d9M0:20:2
@@ -6202,7 +6202,7 @@ spells:CAUSE_2 | CAUSE_4 | BO_MANA | MISSILE | SCARE | BLIND | HEAL
 spells:TELE_TO | S_AINU
 
 name:456:Glabrezu
-counts:113:0:18:2:107:0:6
+counts:115:0:18:2:112:0:6
 blow:HIT:HURT:0+3d4M0:4:0
 blow:HIT:HURT:0+3d4M0:6:1
 flags:UNIQUE | QUESTOR | MALE | FEMALE | FORCE_DEPTH | FORCE_SLEEP
@@ -6418,7 +6418,7 @@ flags:NO_SLEEP
 spells:BR_FIRE | BA_FIRE | BO_FIRE | BO_PLAS | SCARE
 
 name:470:Patriarch
-counts:128:0:23:16:255:0:51
+counts:132:0:23:16:255:0:51
 blow:HIT:HURT:0+3d4M0:3:0
 blow:HIT:HURT:0+3d4M0:2:1
 blow:HIT:HURT:0+3d5M0:4:2
@@ -7020,7 +7020,7 @@ spells:BA_NETH | DRAIN_MANA | BRAIN_SMASH | CAUSE_3 | CAUSE_4 | SCARE
 spells:BLIND | HOLD | S_KIN | S_HI_UNDEAD
 
 name:506:Great Hell Wyrm
-counts:27:0:2:1:54:1:2
+counts:28:0:2:1:59:1:2
 blow:CLAW:HURT:0+4d12M0:3:0
 blow:CLAW:HURT:0+4d12M0:3:1
 blow:BITE:FIRE:0+6d14M0:3:3
@@ -7754,7 +7754,7 @@ spells:BA_NETH | BA_MANA | BRAIN_SMASH | BO_MANA | S_HI_DEMON | S_MONSTERS
 spells:S_HI_UNDEAD | S_HI_DRAGON | S_WRAITH | S_UNIQUE
 
 name:548:Silver mouse
-counts:145:0:50:7:75:0:0
+counts:146:0:50:7:75:0:0
 blow:BITE:EAT_LIGHT:0+1d2M0:3:0
 flags:UNIQUE | QUESTOR | MALE | FEMALE | FORCE_DEPTH | GROUP_AI | NEVER_BLOW
 flags:NEVER_MOVE | RAND_50 | ONLY_GOLD | ONLY_ITEM | DROP_40 | DROP_60
@@ -8045,7 +8045,7 @@ flags:NONLIVING | IM_ACID | IM_COLD | NO_CONF | NO_SLEEP
 spells:SCARE | S_DEMON
 
 name:568:Bile Demon
-counts:68:0:16:3:72:9:6
+counts:69:0:17:3:76:9:6
 blow:HIT:HURT:0+8d8M0:19:0
 blow:HIT:HURT:0+8d8M0:14:1
 blow:CRUSH:ACID:0+9d9M0:21:2
@@ -8187,7 +8187,7 @@ flags:METAL | NONLIVING | IM_COLD | IM_POIS | NO_CONF | NO_SLEEP
 spells:BR_POIS | SCARE | BLIND | CONF
 
 name:578:Great Bile Wyrm
-counts:54:0:8:2:132:0:18
+counts:55:0:8:2:135:0:18
 blow:CLAW:HURT:0+4d12M0:17:0
 blow:CLAW:HURT:0+4d12M0:14:1
 blow:BITE:ACID:0+6d14M0:12:2
@@ -8258,7 +8258,7 @@ flags:NO_SLEEP
 spells:CAUSE_2 | SCARE | BLIND | SLOW | HEAL
 
 name:582:Ranger Chieftain
-counts:116:0:16:17:203:8:13
+counts:118:0:16:17:203:8:13
 blow:HIT:HURT:0+5d5M0:9:0
 blow:HIT:HURT:0+5d5M0:11:1
 blow:HIT:HURT:0+5d5M0:15:2
