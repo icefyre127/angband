@@ -3044,7 +3044,7 @@ flags:IM_POIS
 spells:SCARE
 
 name:238:Earth hound
-counts:1233:0:114:0:0:43:0
+counts:1236:0:114:0:0:43:0
 blow:BITE:HURT:0+1d8M0:9:0
 blow:BITE:HURT:0+1d8M0:8:1
 blow:CLAW:HURT:0+3d3M0:9:2
@@ -3995,7 +3995,7 @@ flags:IM_POIS
 spells:BA_POIS | SCARE
 
 name:303:Black knight
-counts:186:0:26:17:255:0:9
+counts:187:0:26:17:255:0:9
 blow:HIT:HURT:0+5d5M0:25:0
 blow:HIT:HURT:0+5d5M0:18:1
 blow:HIT:HURT:0+5d5M0:18:2
@@ -5825,7 +5825,7 @@ flags:ANIMAL | METAL | NONLIVING | IM_ACID | IM_COLD | IM_POIS | NO_STUN
 flags:NO_CONF | NO_SLEEP
 
 name:433:Lesser titan
-counts:75:0:3:4:82:10:12
+counts:75:0:3:4:83:10:12
 blow:HIT:CONFUSE:0+9d9M0:2:0
 blow:HIT:CONFUSE:0+9d9M0:1:1
 blow:HIT:CONFUSE:0+9d9M0:2:2
@@ -7244,7 +7244,7 @@ flags:HURT_COLD | IM_ACID | IM_FIRE | IM_COLD | IM_POIS
 spells:TELE_TO | S_KIN
 
 name:517:Jabberwock
-counts:556:0:2:2:183:3:7
+counts:556:0:2:2:190:3:7
 blow:CLAW:HURT:0+10d10M0:5:0
 blow:CLAW:HURT:0+10d10M0:8:1
 blow:BITE:HURT:0+10d10M0:8:2
@@ -7909,7 +7909,7 @@ spells:CONF | HOLD | HEAL | BLINK | TPORT | TELE_TO | FORGET | S_DEMON
 spells:S_UNDEAD
 
 name:558:Archlich
-counts:122:0:0:2:175:0:12
+counts:122:0:0:2:179:0:12
 blow:TOUCH:DRAIN_CHARGES:0+0d0M0:2:1
 blow:TOUCH:LOSE_DEX:0+8d12M0:1:2
 flags:UNIQUE | QUESTOR | MALE | FEMALE | FORCE_SLEEP | GROUP_AI | NEVER_BLOW
@@ -8043,7 +8043,7 @@ flags:IM_PLASMA | IM_NEXUS | IM_DISEN | NO_FEAR | NO_STUN | NO_CONF
 flags:NO_SLEEP
 
 name:567:Barbazu
-counts:254:0:43:10:255:0:13
+counts:257:0:43:10:255:0:13
 blow:HIT:HURT:0+4d10M0:3:0
 blow:HIT:HURT:0+4d10M0:6:1
 blow:HIT:LOSE_CON:0+10d2M0:2:2
